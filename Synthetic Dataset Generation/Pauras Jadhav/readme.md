@@ -1,6 +1,6 @@
 ## How to generate Synthetic Data ##
 1. Open *create_dataset.py*.
-2. Change the parameters for the input file and output file.
+2. Change the link to the original data
 3. Run the script using Python command prompt.
 
 ### Requirements ###
