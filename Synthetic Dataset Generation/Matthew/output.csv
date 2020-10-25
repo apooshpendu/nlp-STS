@@ -1,0 +1,1631 @@
+	Sentence1	Sentence2	Gold Label	is_sts
+0	A plane is taking off.	The plane will take off.	5	true
+1	A plane is taking off.	The plane volition return off.	4	true
+2	A plane is taking off.	The plane will tax return off.	3	true
+3	A plane is taking off.	The plane will take murder.	2	true
+4	A plane is taking off.	The airplane volition take slaying.	1	true
+5	A man is playing a large flute.	The man is playing a big flute.	5	true
+6	A man is playing a large flute.	The man play a big transverse flute.	4	true
+7	A man is playing a large flute.	The man is playing angstrom large flute.	3	true
+8	A man is playing a large flute.	The man was acting the organ, and the great.	2	true
+9	A man is playing a large flute.	The adult male was playing the electric organ, and the great.	1	true
+10	A man is spreading shreded cheese on a pizza.	A man spreads grated cheese on a pizza.	5	true
+11	A man is spreading shreded cheese on a pizza.	A man smear grated cheese on angstrom pizza.	4	true
+12	A man is spreading shreded cheese on a pizza.	A individual spread grated cheese on a pizza pie.	3	true
+13	A man is spreading shreded cheese on a pizza.	A individual with grate cheese for pizza pie propagates.	2	true
+14	A man is spreading shreded cheese on a pizza.	angstrom person with grate cheese for pizza pie propagates.	1	true
+15	Three men are playing chess.	Three men play chess.	5	true
+16	Three men are playing chess.	three men play chess.	4	true
+17	Three men are playing chess.	3 work force play cheat.	3	true
+18	Three men are playing chess.	three work force play chess.	2	true
+19	Three men are playing chess.	Three work force drama darnel.	1	true
+20	A man is playing the cello.	A man is playing the cello.	5	true
+21	A man is playing the cello.	A man playing a cello.	4	true
+22	A man is playing the cello.	angstrom person who play the violoncello.	3	true
+23	A man is playing the cello.	angstrom who plays the cello Ode.	2	true
+24	A man is playing the cello.	A World Health Organization plays the violoncello Ode.	1	true
+25	Some men are fighting.	Some men fight.	5	true
+26	Some men are fighting.	Some work force battle.	4	true
+27	Some men are fighting.	approximately work force fight.	3	true
+28	Some men are fighting.	Some work force battle.	2	true
+29	Some men are fighting.	astir work force fight.	1	true
+30	A man is smoking.	The man smokes.	5	true
+31	A man is smoking.	The man smokes.	4	true
+32	A man is smoking.	The adult male smoke.	3	true
+33	A man is smoking.	The person smokes.	2	true
+34	A man is smoking.	The person fume.	1	true
+35	The man is playing the piano.	The man is playing the piano.	5	true
+36	The man is playing the piano.	The man is acting the pianoforte.	4	true
+37	The man is playing the piano.	The man play the pianoforte.	3	true
+38	The man is playing the piano.	The adult male plays the pianoforte.	2	true
+39	The man is playing the piano.	The man play the piano.	1	true
+40	A man is playing on a guitar and singing.	A man plays the guitar and sings.	5	true
+41	A man is playing on a guitar and singing.	A man play guitar and sings.	4	true
+42	A man is playing on a guitar and singing.	Adam plays guitar and sing.	3	true
+43	A man is playing on a guitar and singing.	Adam plays the guitar music.	2	true
+44	A man is playing on a guitar and singing.	Robert Adam plays the guitar euphony.	1	true
+45	A person is throwing a cat on to the ceiling.	A person throws a cat on the ceiling.	5	true
+46	A person is throwing a cat on to the ceiling.	A person throw a cat along the ceiling.	4	true
+47	A person is throwing a cat on to the ceiling.	A man throw a cat on the ceiling.	3	true
+48	A person is throwing a cat on to the ceiling.	A cat into the ceiling.	2	true
+49	A person is throwing a cat on to the ceiling.	angstrom true cat into the roof.	1	true
+50	The man hit the other man with a stick.	The man hit the other man with a stick.	5	true
+51	The man hit the other man with a stick.	The adult male hit another man with angstrom stick.	4	true
+52	The man hit the other man with a stick.	The adult male hit another man with a stick.	3	true
+53	The man hit the other man with a stick.	The man hit another adult male with a stick.	2	true
+54	The man hit the other man with a stick.	The man hit some other man with angstrom stick.	1	true
+55	A woman picks up and holds a baby kangaroo.	A woman is holding a baby kangaroo in her hand.	5	true
+56	A woman picks up and holds a baby kangaroo.	A woman holds a baby kangaroo in her hand.	4	true
+57	A woman picks up and holds a baby kangaroo.	angstrom woman holding a baby kangaroo inch her hand.	3	true
+58	A woman picks up and holds a baby kangaroo.	A woman and a baby kangaroo in his hand.	2	true
+59	A woman picks up and holds a baby kangaroo.	angstrom woman and a babe kangaroo in his hand.	1	true
+60	A man is playing a flute.	A man is playing the flute.	5	true
+61	A man is playing a flute.	angstrom adult male plays flute.	4	true
+62	A man is playing a flute.	A adult male play the flute.	3	true
+63	A man is playing a flute.	play angstrom transverse flute.	2	true
+64	A man is playing a flute.	play angstrom unit flute.	1	true
+65	A person is folding a piece of paper.	One person folds a piece of paper.	5	true
+66	A person is folding a piece of paper.	1 person folds a piece of composition.	4	true
+67	A person is folding a piece of paper.	One individual folds a piece of paper.	3	true
+68	A person is folding a piece of paper.	Una persona trahit a part of composition.	2	true
+69	A person is folding a piece of paper.	Una persona trahit angstrom piece of composition.	1	true
+70	A man is running on the road.	A man is running down the street.	5	true
+71	A man is running on the road.	angstrom man is running down the street.	4	true
+72	A man is running on the road.	A man ran down the street.	3	true
+73	A man is running on the road.	The man ran down the street.	2	true
+74	A man is running on the road.	The man ran down feather the street.	1	true
+75	A dog is trying to get bacon off his back.	The dog tries to remove the bacon from his back.	5	true
+76	A dog is trying to get bacon off his back.	The dog tries to remove the bacon from his dorsum.	4	true
+77	A dog is trying to get bacon off his back.	The dog tries to remove the bacon from his back.	3	true
+78	A dog is trying to get bacon off his back.	The domestic dog attempt to back bacon.	2	true
+79	A dog is trying to get bacon off his back.	The dog tries to dorsum bacon.	1	true
+80	The polar bear is sliding on the snow.	Polar bears are sliding on the snow.	5	true
+81	The polar bear is sliding on the snow.	White person bears semivowel on the snow.	4	true
+82	The polar bear is sliding on the snow.	White person bears glide along the snow.	3	true
+83	The polar bear is sliding on the snow.	Glide along the snowfall white nulla.	2	true
+84	The polar bear is sliding on the snow.	semivowel along the snowfall White person nulla.	1	true
+85	A woman is writing.	A woman is writing.	5	true
+86	A woman is writing.	A adult female write.	4	true
+87	A woman is writing.	angstrom adult female writes.	3	true
+88	A woman is writing.	She compose.	2	true
+89	A woman is writing.	She write.	1	true
+90	A cat is rubbing against baby's face.	The cat rubs the baby's face.	5	true
+91	A cat is rubbing against baby's face.	The cat hang-up the baby's face.	4	true
+92	A cat is rubbing against baby's face.	The true cat rubs the baby's human face.	3	true
+93	A cat is rubbing against baby's face.	A true cat hang-up the baby's human face.	2	true
+94	A cat is rubbing against baby's face.	A true cat rubs the baby's human face.	1	true
+95	The man is riding a horse.	The man is riding a horse.	5	true
+96	The man is riding a horse.	The man is riding a Equus caballus.	4	true
+97	The man is riding a horse.	The man is horseback riding a Equus caballus.	3	true
+98	The man is riding a horse.	angstrom unit cycle.	2	true
+99	The man is riding a horse.	angstrom unit rhythm.	1	true
+100	A man pours oil into a pot.	A man pours oil into a pot.	5	true
+101	A man pours oil into a pot.	A man throw oil in angstrom jarful.	4	true
+102	A man pours oil into a pot.	A individual throws oil into angstrom jarful.	3	true
+103	A man pours oil into a pot.	angstrom unit person sends the oil in angstrom jar.	2	true
+104	A man pours oil into a pot.	angstrom person sends the oil color in a jar.	1	true
+105	A man is playing a guitar.	A man is playing the guitar.	5	true
+106	A man is playing a guitar.	angstrom adult male plays guitar.	4	true
+107	A man is playing a guitar.	Robert Adam play guitar.	3	true
+108	A man is playing a guitar.	Sitara drama Robert Adam.	2	true
+109	A man is playing a guitar.	'N adult male speel kitaar.	1	true
+110	A panda is sliding down a slide.	The panda is sliding down the slide.	5	true
+111	A panda is sliding down a slide.	angstrom panda is sliding down a microscope slide.	4	true
+112	A panda is sliding down a slide.	פנדה מחליק במגלשה.	3	true
+113	A panda is sliding down a slide.	angstrom Pandam Eastern Time illapsum descendit lapsu.	2	true
+114	A panda is sliding down a slide.	パンダがスライドを滑り降りています	1	true
+115	A woman is eating something.	A woman is eating something.	5	true
+116	A woman is eating something.	A woman beryllium eating something.	4	true
+117	A woman is eating something.	A woman is feeding something.	3	true
+118	A woman is eating something.	A woman be eating something.	2	true
+119	A woman is eating something.	A adult female is eating something.	1	true
+120	A woman peels a potato.	A woman peels a potato.	5	true
+121	A woman peels a potato.	A woman peels angstrom unit potato.	4	true
+122	A woman peels a potato.	angstrom woman peels angstrom white potato.	3	true
+123	A woman peels a potato.	A adult female peels angstrom potato.	2	true
+124	A woman peels a potato.	angstrom adult female Peel a potato.	1	true
+125	The boy fell off his bike.	The boy fell off his bike.	5	true
+126	The boy fell off his bike.	The boy fell off his bike.	4	true
+127	The boy fell off his bike.	The boy fell off his bike.	3	true
+128	The boy fell off his bike.	The boy fell off his bike.	2	true
+129	The boy fell off his bike.	The male child hide murder his motorcycle.	1	true
+130	The woman is playing the flute.	The woman is playing the flute.	5	true
+131	The woman is playing the flute.	The adult female be playing the flute.	4	true
+132	The woman is playing the flute.	The woman beryllium acting the flute.	3	true
+133	The woman is playing the flute.	The woman is playing the flute.	2	true
+134	The woman is playing the flute.	The woman be acting the transverse flute.	1	true
+135	A rabbit is running from an eagle.	A rabbit is running from an eagle.	5	true
+136	A rabbit is running from an eagle.	A rabbit is running from an bird of Jove.	4	true
+137	A rabbit is running from an eagle.	A rabbit Be running from an eagle.	3	true
+138	A rabbit is running from an eagle.	angstrom coney is running from an eagle.	2	true
+139	A rabbit is running from an eagle.	angstrom Epinephelus fulvus is running from an eagle.	1	true
+140	The woman is frying a breaded pork chop.	The woman is frying a breaded pork chop.	5	true
+141	The woman is frying a breaded pork chop.	The woman is frying angstrom breaded porc chop.	4	true
+142	The woman is frying a breaded pork chop.	The woman is sauteing a breaded pork chop shot.	3	true
+143	The woman is frying a breaded pork chop.	The woman beryllium frying a breaded pork chop.	2	true
+144	The woman is frying a breaded pork chop.	The woman slipped into the fry pork chop with pepper eating.	1	true
+145	A girl is flying a kite.	The girl flies a kite.	5	true
+146	A girl is flying a kite.	A girl fly with a kite.	4	true
+147	A girl is flying a kite.	The miss flew with angstrom kite.	3	true
+148	A girl is flying a kite.	When a girl flight a kite.	2	true
+149	A girl is flying a kite.	Puella Eae eum sequuntur.	1	true
+150	A man is riding a mechanical bull.	The man is riding a mechanical bull.	5	true
+151	A man is riding a mechanical bull.	The man is riding angstrom mechanical bull.	4	true
+152	A man is riding a mechanical bull.	The man is riding angstrom unit mechanically skillful bull.	3	true
+153	A man is riding a mechanical bull.	The adult male be riding a mechanical bruiser.	2	true
+154	A man is riding a mechanical bull.	The man rides a mechanically skillful bull.	1	true
+155	The man is playing the guitar.	The man is playing the guitar.	5	true
+156	The man is playing the guitar.	The man plays guitar.	4	true
+157	The man is playing the guitar.	האיש מנגן בגיטרה.	3	true
+158	The man is playing the guitar.	The adult male plays the guitar.	2	true
+159	The man is playing the guitar.	The man plays the guitar.	1	true
+160	A woman is dancing and singing with other women.	Women dance and sing with other women.	5	true
+161	A woman is dancing and singing with other women.	Women dance and sing with other woman.	4	true
+162	A woman is dancing and singing with other women.	נשים רוקדות ושרות עם נשים אחרות.	3	true
+163	A woman is dancing and singing with other women.	Women whistle and dance with early women.	2	true
+164	A woman is dancing and singing with other women.	woman whistle and dancing with early women.	1	true
+165	A man is slicing a bun.	男がパンを切る。	5	true
+166	A man is slicing a bun.	angstrom man cut bread.	4	true
+167	A man is slicing a bun.	A adult male be slicing a dumplings.	3	true
+168	A man is slicing a bun.	angstrom bread cake.	2	true
+169	A man is slicing a bun.	angstrom bread bar.	1	true
+170	A man is pouring oil into a pan.	男が鍋に油を注ぐ。	5	true
+171	A man is pouring oil into a pan.	angstrom man pour oil into a pan.	4	true
+172	A man is pouring oil into a pan.	'N adult male gooi olie in 'n toilet.	3	true
+173	A man is pouring oil into a pan.	A person send the oil in angstrom unit jar.	2	true
+174	A man is pouring oil into a pan.	angstrom unit person pours oil into the toilet.	1	true
+175	A lion is playing with people.	ライオンは人と遊ぶ。	5	true
+176	A lion is playing with people.	Lions play with people.	4	true
+177	A lion is playing with people.	אריות משחקים עם אנשים.	3	true
+178	A lion is playing with people.	Lions drama with people.	2	true
+179	A lion is playing with people.	king of beasts drama with people.	1	true
+180	A dog rides a skateboard.	The dog rides on a skateboard.	5	true
+181	A dog rides a skateboard.	The domestic dog rides on a skateboard.	4	true
+182	A dog rides a skateboard.	angstrom dog rides angstrom skateboard.	3	true
+183	A dog rides a skateboard.	The dog riding a skateboard.	2	true
+184	A dog rides a skateboard.	The dog rides angstrom skateboard.	1	true
+185	Someone is carving a statue.	Someone is carving a statue.	5	true
+186	Someone is carving a statue.	person is carving a statue.	4	true
+187	Someone is carving a statue.	person is carving angstrom statue.	3	true
+188	Someone is carving a statue.	Anyone statue cutting a adult male.	2	true
+189	Someone is carving a statue.	Anyone statue carving angstrom unit adult male.	1	true
+190	A woman is slicing an onion.	A woman is slicing an onion.	5	true
+191	A woman is slicing an onion.	angstrom woman cuts onion.	4	true
+192	A woman is slicing an onion.	angstrom adult female cuts Associate in Nursing onion.	3	true
+193	A woman is slicing an onion.	The female person secans strain is.	2	true
+194	A woman is slicing an onion.	The female person secans stress be.	1	true
+195	A woman peels shrimp.	A woman peels shrimp.	5	true
+196	A woman peels shrimp.	A woman peels angstrom runt.	4	true
+197	A woman peels shrimp.	A adult female peeling shrimp.	3	true
+198	A woman peels shrimp.	The GLUMA female person rings.	2	true
+199	A woman peels shrimp.	The GLUMA female person rings.	1	true
+200	A woman is frying fish.	女性が魚を揚げます。	5	true
+201	A woman is frying fish.	'N Vrou braai 'n vis.	4	true
+202	A woman is frying fish.	A woman sauteing Pisces the Fishes.	3	true
+203	A woman is frying fish.	A woman Washington frying fish.	2	true
+204	A woman is frying fish.	angstrom femina piscis french fries.	1	true
+205	A woman is playing an electric guitar.	女性がエレキギターを弾いています。	5	true
+206	A woman is playing an electric guitar.	angstrom woman play the electric guitar.	4	true
+207	A woman is playing an electric guitar.	angstrom woman playing an electric guitar.	3	true
+208	A woman is playing an electric guitar.	angstrom unit femina an electrica Cithara ludere.	2	true
+209	A woman is playing an electric guitar.	אישה מנגנת בגיטרה חשמלית.	1	true
+210	A baby tiger is playing with a ball.	赤ちゃんタイガーはボールで遊ぶ。	5	true
+211	A baby tiger is playing with a ball.	赤ちゃんトラがボールで遊んでいます	4	true
+212	A baby tiger is playing with a ball.	赤ちゃんタイガーはボールで遊ぶ	3	true
+213	A baby tiger is playing with a ball.	The child playing with Liberation Tigers of Tamil Eelam ball.	2	true
+214	A baby tiger is playing with a ball.	angstrom Panthera tigris plays with a ball.	1	true
+215	A person is slicing a tomato.	A person is slicing a tomato.	5	true
+216	A person is slicing a tomato.	'N Persoon sny 'n tamatie.	4	true
+217	A person is slicing a tomato.	'N Persoon sny 'n tamatie.	3	true
+218	A person is slicing a tomato.	人がトマトをスライスしています	2	true
+219	A person is slicing a tomato.	אדם פורס עגבנייה.	1	true
+220	A person cuts an onion.	A person cuts an onion.	5	true
+221	A person cuts an onion.	A person gash an onion.	4	true
+222	A person cuts an onion.	A individual gash an onion.	3	true
+223	A person cuts an onion.	angstrom individual cuts an onion plant.	2	true
+224	A person cuts an onion.	אדם חותך בצל.	1	true
+225	A man is playing the piano.	A man is playing the piano.	5	true
+226	A man is playing the piano.	A man is playing the pianoforte.	4	true
+227	A man is playing the piano.	אדם מנגן בפסנתר.	3	true
+228	A man is playing the piano.	Ein Mann spielt Klavier.	2	true
+229	A man is playing the piano.	אדם מנגן בפסנתר.	1	true
+230	A woman is playing the flute.	A woman is playing the flute.	5	true
+231	A woman is playing the flute.	'N Vrou speel fluit.	4	true
+232	A woman is playing the flute.	'N Vrou speel fluit.	3	true
+233	A woman is playing the flute.	'N Vrou speel fluit.	2	true
+234	A woman is playing the flute.	A adult female beryllium acting the flute.	1	true
+235	A man is cutting up a potato.	Ein Mann schneidet eine Kartoffel.	5	true
+236	A man is cutting up a potato.	'N Man is besig om aartappels te sny.	4	true
+237	A man is cutting up a potato.	A man beryllium film editing potatoes.	3	true
+238	A man is cutting up a potato.	The cutting of the white potato.	2	true
+239	A man is cutting up a potato.	angstrom adult male cut angstrom potato.	1	true
+240	A kid is playing guitar.	子供がギターを弾きます。	5	true
+241	A kid is playing guitar.	The child plays the guitar.	4	true
+242	A kid is playing guitar.	dice kind speel kitaar.	3	true
+243	A kid is playing guitar.	The boy playing the guitar.	2	true
+244	A kid is playing guitar.	The male child playing the guitar.	1	true
+245	A boy is playing guitar.	男の子がギターを弾いています。	5	true
+246	A boy is playing guitar.	男の子がギターを弾いています	4	true
+247	A boy is playing guitar.	ילד מנגן בגיטרה.	3	true
+248	A boy is playing guitar.	A puer ludere Cithara.	2	true
+249	A boy is playing guitar.	angstrom unit puer ludere Cithara.	1	true
+250	A man is playing guitar.	A man is playing the guitar.	5	true
+251	A man is playing guitar.	'N adult male speel kitaar.	4	true
+252	A man is playing guitar.	angstrom adult male plays guitar.	3	true
+253	A man is playing guitar.	Sitara play Robert Adam.	2	true
+254	A man is playing guitar.	Sitara play Adam.	1	true
+255	A little boy is playing a keyboard.	A young boy is playing a keyboard.	5	true
+256	A little boy is playing a keyboard.	The boy plays the keyboard.	4	true
+257	A little boy is playing a keyboard.	The child be playing on the keyboard.	3	true
+258	A little boy is playing a keyboard.	For a child is playing the electric automobile piano.	2	true
+259	A little boy is playing a keyboard.	Est puer eorum magister loquitur.	1	true
+260	A man is playing a guitar.	Ein Mann spielt Gitarre.	5	true
+261	A man is playing a guitar.	angstrom adult male plays guitar.	4	true
+262	A man is playing a guitar.	Robert Adam drama guitar.	3	true
+263	A man is playing a guitar.	Sitara play Adam.	2	true
+264	A man is playing a guitar.	Sitara play Robert Adam.	1	true
+265	A dog licks a baby.	The dog licks the baby.	5	true
+266	A dog licks a baby.	The dog licks the babe.	4	true
+267	A dog licks a baby.	'N Hond lek' nitrogen baba.	3	true
+268	A dog licks a baby.	genus Canis lambit et infantem.	2	true
+269	A dog licks a baby.	The domestic dog licked the baby.	1	true
+270	A woman is slicing an onion.	A woman is cutting onions.	5	true
+271	A woman is slicing an onion.	A woman cuts onion plant.	4	true
+272	A woman is slicing an onion.	A adult female beryllium cutting onions.	3	true
+273	A woman is slicing an onion.	The female secans stress be.	2	true
+274	A woman is slicing an onion.	The female secans stress is.	1	true
+275	A man is playing the guitar.	A man is playing the guitar.	5	true
+276	A man is playing the guitar.	A man plays guitar.	4	true
+277	A man is playing the guitar.	Robert Adam play guitar.	3	true
+278	A man is playing the guitar.	Sitara play Robert Adam.	2	true
+279	A man is playing the guitar.	Sitara play Robert Adam.	1	true
+280	A woman is slicing a pepper.	A woman cuts pepper.	5	true
+281	A woman is slicing a pepper.	'N Vrou sny peper.	4	true
+282	A woman is slicing a pepper.	angstrom unit adult female cutting a pepper.	3	true
+283	A woman is slicing a pepper.	angstrom woman be film editing a pepper.	2	true
+284	A woman is slicing a pepper.	A adult female is film editing angstrom pepper.	1	true
+285	A man is playing the drums.	A man plays the drums.	5	true
+286	A man is playing the drums.	A man play angstrom drum.	4	true
+287	A man is playing the drums.	angstrom man playing a drum.	3	true
+288	A man is playing the drums.	playing angstrom drum.	2	true
+289	A man is playing the drums.	acting a membranophone.	1	true
+290	A woman rides a horse.	A woman rides a horse.	5	true
+291	A woman rides a horse.	angstrom woman rides a Equus caballus.	4	true
+292	A woman rides a horse.	angstrom woman riding angstrom unit horse.	3	true
+293	A woman rides a horse.	Woman's Equus caballus.	2	true
+294	A woman rides a horse.	Woman's Equus caballus.	1	true
+295	A man is eating a banana by a tree.	The man eats a banana on the tree.	5	true
+296	A man is eating a banana by a tree.	The man is eating angstrom banana on the tree.	4	true
+297	A man is eating a banana by a tree.	The man chow a banana tree on the tree.	3	true
+298	A man is eating a banana by a tree.	adult male chow angstrom banana tree.	2	true
+299	A man is eating a banana by a tree.	For angstrom adult male eats a banana tree.	1	true
+300	A cat is playing a key board.	The cat plays the keyboard.	5	true
+301	A cat is playing a key board.	The cat plays the keyboard.	4	true
+302	A cat is playing a key board.	החתול מנגן על המקלדת.	3	true
+303	A cat is playing a key board.	The cat drama on the keyboard.	2	true
+304	A cat is playing a key board.	angstrom cattus plays inch tincidunt.	1	true
+305	A man chops down a tree with an axe.	The man cuts a tree with an ax.	5	true
+306	A man chops down a tree with an axe.	The adult male cuts angstrom tree with an ax.	4	true
+307	A man chops down a tree with an axe.	A man chops down a tree with an axe.	3	true
+308	A man chops down a tree with an axe.	angstrom viro in arboris Peter Minuit concisaque construit cum securi percutitur.	2	true
+309	A man chops down a tree with an axe.	男は斧で木を切る	1	true
+310	A kid plays with a toy phone.	A child is playing with a toy phone.	5	true
+311	A kid plays with a toy phone.	angstrom child playing with a toy phone.	4	true
+312	A kid plays with a toy phone.	Ein Kind spielt Massachusetts Institute of Technology einem Spielzeugtelefon.	3	true
+313	A kid plays with a toy phone.	A kid plays with angstrom plaything telephone.	2	true
+314	A kid plays with a toy phone.	Ein sort spielt mit einem Spielzeugtelefon.	1	true
+315	A man is riding a motorcycle.	A man is riding a motorcycle.	5	true
+316	A man is riding a motorcycle.	'N adult male ry op 'n motorfiets.	4	true
+317	A man is riding a motorcycle.	'N adult male ry op 'n motorfiets.	3	true
+318	A man is riding a motorcycle.	A man be horseback riding angstrom motorcycle.	2	true
+319	A man is riding a motorcycle.	angstrom adult male beryllium riding a motorcycle.	1	true
+320	A man is riding a motorcycle.	A man is riding a motorcycle.	5	true
+321	A man is riding a motorcycle.	A adult male is riding a bike.	4	true
+322	A man is riding a motorcycle.	A adult male is horseback riding angstrom motorcycle.	3	true
+323	A man is riding a motorcycle.	A man be riding angstrom unit motorcycle.	2	true
+324	A man is riding a motorcycle.	A adult male is riding angstrom bike.	1	true
+325	A squirrel is spinning around in circles.	A squirrel is spinning around in circles.	5	true
+326	A squirrel is spinning around in circles.	A squirrel is spinning about inch circles.	4	true
+327	A squirrel is spinning around in circles.	A squirrel is spinning astir in circle.	3	true
+328	A squirrel is spinning around in circles.	angstrom squirrel be spin around in circles.	2	true
+329	A squirrel is spinning around in circles.	angstrom squirrel be spinning around inch circle.	1	true
+330	A man and a woman are kissing.	Ein Mann und eine Frau küssen sich.	5	true
+331	A man and a woman are kissing.	男と女がキスをしている	4	true
+332	A man and a woman are kissing.	גבר ואישה מתנשקים.	3	true
+333	A man and a woman are kissing.	Virum et mulieris osculum.	2	true
+334	A man and a woman are kissing.	גבר ואישה מתנשקים.	1	true
+335	A man is getting into a car.	A man is getting into a car.	5	true
+336	A man is getting into a car.	A man is getting into a car.	4	true
+337	A man is getting into a car.	A adult male gets into a auto.	3	true
+338	A man is getting into a car.	A adult male acquire into the car.	2	true
+339	A man is getting into a car.	A adult male is in the auto.	1	true
+340	A man is dancing.	Ein Mann tanzt.	5	true
+341	A man is dancing.	angstrom adult male dancing.	4	true
+342	A man is dancing.	angstrom adult male dance.	3	true
+343	A man is dancing.	homophile bacillus.	2	true
+344	A man is dancing.	איש ב.	1	true
+345	A man is playing the guitar and singing.	男がギターを弾いて歌っています。	5	true
+346	A man is playing the guitar and singing.	angstrom man play the guitar and sings.	4	true
+347	A man is playing the guitar and singing.	Robert Adam plays guitar and sings.	3	true
+348	A man is playing the guitar and singing.	'N adult male speel kitaar en sing.	2	true
+349	A man is playing the guitar and singing.	Adam play the guitar music.	1	true
+350	A person is cutting mushrooms.	One person cuts a mushroom.	5	true
+351	A person is cutting mushrooms.	One individual cuts angstrom mushroom.	4	true
+352	A person is cutting mushrooms.	1 individual cuts a fungus.	3	true
+353	A person is cutting mushrooms.	angstrom fungus whitethorn also be goodness if one man falls into none.	2	true
+354	A person is cutting mushrooms.	angstrom fungus may also beryllium good if 1 man falls into none.	1	true
+355	A tiger cub is making a sound.	The Tiger Cub makes a noise.	5	true
+356	A tiger cub is making a sound.	The Tiger Cub makes a disagreement.	4	true
+357	A tiger cub is making a sound.	The tiger greenhorn brand a noise.	3	true
+358	A tiger cub is making a sound.	Tigris River sonum greenhorn.	2	true
+359	A tiger cub is making a sound.	Tigris River sonum greenhorn.	1	true
+360	A person is slicing onions.	One person cuts the onion.	5	true
+361	A person is slicing onions.	1 person slices the onion plant.	4	true
+362	A person is slicing onions.	1 person slice the onion plant.	3	true
+363	A person is slicing onions.	disturb cepa in one individual	2	true
+364	A person is slicing onions.	disturb cepa in one individual	1	true
+365	A man is playing the piano.	A man is playing the piano.	5	true
+366	A man is playing the piano.	angstrom adult male plays piano.	4	true
+367	A man is playing the piano.	Robert Adam play the pianoforte.	3	true
+368	A man is playing the piano.	play Robert Adam inch piano.	2	true
+369	A man is playing the piano.	Plays Robert Adam in piano.	1	true
+370	A woman is peeling a potato.	A woman is peeling a potato.	5	true
+371	A woman is peeling a potato.	A adult female Peel a potato.	4	true
+372	A woman is peeling a potato.	angstrom woman desquamation a white potato.	3	true
+373	A woman is peeling a potato.	A woman peeling angstrom white potato.	2	true
+374	A woman is peeling a potato.	A adult female desquamation angstrom potato.	1	true
+375	A pankda is eating bamboo.	Punkda eats bamboo.	5	true
+376	A pankda is eating bamboo.	Punkda eats bamboo.	4	true
+377	A pankda is eating bamboo.	Funka chow bamboo.	3	true
+378	A pankda is eating bamboo.	blue funk eating bamboo.	2	true
+379	A pankda is eating bamboo.	blue funk feeding bamboo.	1	true
+380	A person is peeling an onion.	One person peels off the onions.	5	true
+381	A person is peeling an onion.	One person peels the onions.	4	true
+382	A person is peeling an onion.	One individual peels the onion plant.	3	true
+383	A person is peeling an onion.	One person Robert Peel the onion.	2	true
+384	A person is peeling an onion.	one individual peels the onion.	1	true
+385	A monkey pushes another monkey.	One monkey pushes another.	5	true
+386	A monkey pushes another monkey.	one monkey pushes the other.	4	true
+387	A monkey pushes another monkey.	One monkey push the other.	3	true
+388	A monkey pushes another monkey.	1 monkey second terminal.	2	true
+389	A monkey pushes another monkey.	one monkey second goal.	1	true
+390	A squirrel runs around in circles.	Squirrels are running around in a circle.	5	true
+391	A squirrel runs around in circles.	The squirrels run about in angstrom circle.	4	true
+392	A squirrel runs around in circles.	The squirrels are run around in a circle.	3	true
+393	A squirrel runs around in circles.	And the ski are run around inch circles.	2	true
+394	A squirrel runs around in circles.	And the skis argon running around in set.	1	true
+395	A man is tying his shoe.	The man ties his shoes.	5	true
+396	A man is tying his shoe.	The adult male fasten his shoes.	4	true
+397	A man is tying his shoe.	The adult male fix his shoes.	3	true
+398	A man is tying his shoe.	angstrom man fastens his horseshoe.	2	true
+399	A man is tying his shoe.	angstrom unit strong man's topographic point.	1	true
+400	A boy is singing and playing the piano.	The boy sings and plays the piano.	5	true
+401	A boy is singing and playing the piano.	angstrom boy sing and plays the piano.	4	true
+402	A boy is singing and playing the piano.	The boy whistle and plays the piano.	3	true
+403	A boy is singing and playing the piano.	A offspring man sing and play the piano.	2	true
+404	A boy is singing and playing the piano.	Puer laudabit atque plays in pianoforte.	1	true
+405	A dog is eating water melon.	A dog is eating water melon.	5	true
+406	A dog is eating water melon.	Ein Hund frisst Wassermelone.	4	true
+407	A dog is eating water melon.	כלב אוכל אבטיח.	3	true
+408	A dog is eating water melon.	הכלב אוכל אבטיח.	2	true
+409	A dog is eating water melon.	הכלב אוכל אבטיח.	1	true
+410	A woman is chopping broccoli.	A woman is chopping broccoli.	5	true
+411	A woman is chopping broccoli.	'N Vrou kap broccoli.	4	true
+412	A woman is chopping broccoli.	A woman be chop Brassica oleracea italica.	3	true
+413	A woman is chopping broccoli.	angstrom woman is chop Brassica oleracea italica.	2	true
+414	A woman is chopping broccoli.	A femina qui algentem metus.	1	true
+415	A man is peeling a potato.	A man is peeling a potato.	5	true
+416	A man is peeling a potato.	A adult male is desquamation a potato.	4	true
+417	A man is peeling a potato.	A man beryllium peeling angstrom potato.	3	true
+418	A man is peeling a potato.	angstrom man is desquamation angstrom potato.	2	true
+419	A man is peeling a potato.	A adult male is desquamation a potato.	1	true
+420	A woman is playing a guitar.	A woman is playing a guitar.	5	true
+421	A woman is playing a guitar.	angstrom woman is playing a guitar.	4	true
+422	A woman is playing a guitar.	angstrom woman be playing angstrom guitar.	3	true
+423	A woman is playing a guitar.	A adult female is playing angstrom guitar.	2	true
+424	A woman is playing a guitar.	angstrom adult female be playing angstrom guitar.	1	true
+425	A woman is slicing tomato.	A woman is slicing tomato.	5	true
+426	A woman is slicing tomato.	A woman be slice tomato.	4	true
+427	A woman is slicing tomato.	A adult female beryllium slicing tomato.	3	true
+428	A woman is slicing tomato.	A adult female be slicing tomato.	2	true
+429	A woman is slicing tomato.	angstrom unit adult female is slice tomato.	1	true
+430	A man swims underwater.	A man swims underwater.	5	true
+431	A man swims underwater.	A adult male swims underwater.	4	true
+432	A man swims underwater.	angstrom man swims submerge.	3	true
+433	A man swims underwater.	'N Man swem onder water.	2	true
+434	A man swims underwater.	Virum natat greenish blue summersus est.	1	true
+435	A man and woman are talking.	男と女が話します。	5	true
+436	A man and woman are talking.	Ein Horace Mann und eine Frau reden.	4	true
+437	A man and woman are talking.	A man and a adult female ar talk.	3	true
+438	A man and woman are talking.	iodine talk to a woman.	2	true
+439	A man and woman are talking.	Et homosexual Mulier loquendo.	1	true
+440	A small dog is chasing a yoga ball.	A little dog chases a yoga ball.	5	true
+441	A small dog is chasing a yoga ball.	angstrom small dog chases angstrom yoga ball.	4	true
+442	A small dog is chasing a yoga ball.	A small dog chase a yoga musket ball.	3	true
+443	A small dog is chasing a yoga ball.	A small dog pursuit angstrom yoga ball.	2	true
+444	A small dog is chasing a yoga ball.	Puppy sequitur aestum tota yoga pila place.	1	true
+445	The men are playing cricket.	Die Männer spielen Cricket.	5	true
+446	The men are playing cricket.	work force are playing cricket.	4	true
+447	The men are playing cricket.	work force play cricket.	3	true
+448	The men are playing cricket.	Cricket work force.	2	true
+449	The men are playing cricket.	Men acting cricket.	1	true
+450	A man rides off on a motorcycle.	A man rides a motorcycle.	5	true
+451	A man rides off on a motorcycle.	A adult male drive a bicycle and runs away.	4	true
+452	A man rides off on a motorcycle.	אדם רוכב על אופניים.	3	true
+453	A man rides off on a motorcycle.	He runs exterior, helium rides a bicycle man.	2	true
+454	A man rides off on a motorcycle.	אדם רוכב על אופניים ובורח.	1	true
+455	A man is playing a guitar.	A man is playing the guitar.	5	true
+456	A man is playing a guitar.	'N Man speel kitaar.	4	true
+457	A man is playing a guitar.	Adam plays guitar.	3	true
+458	A man is playing a guitar.	Cithara plays virum.	2	true
+459	A man is playing a guitar.	Sitara play Robert Adam.	1	true
+460	The man talked on the telephone.	The man was on the phone.	5	true
+461	The man talked on the telephone.	その男は電話中だった	4	true
+462	The man talked on the telephone.	האיש דיבר בטלפון.	3	true
+463	The man talked on the telephone.	He was on the phone.	2	true
+464	The man talked on the telephone.	Vir erat inch telephone.	1	true
+465	A man is fishing.	A man is fishing.	5	true
+466	A man is fishing.	angstrom adult male fishing.	4	true
+467	A man is fishing.	angstrom unit sportfishing man.	3	true
+468	A man is fishing.	A qui curat.	2	true
+469	A man is fishing.	angstrom adult male sportfishing.	1	true
+470	A man is levitating.	男が浮かんでいます。	5	true
+471	A man is levitating.	Ein Mann schwebt.	4	true
+472	A man is levitating.	A floating individual.	3	true
+473	A man is levitating.	Associate in Nursing attack.	2	true
+474	A man is levitating.	angstrom unit life character.	1	true
+475	Two boys are driving.	Two boys drive.	5	true
+476	Two boys are driving.	Two boys thrust.	4	true
+477	Two boys are driving.	two male child are riding.	3	true
+478	Two boys are driving.	Duo pueri agitare.	2	true
+479	Two boys are driving.	The 2 boys beryllium horseback riding.	1	true
+480	A man is riding on a horse.	The man rides a horse.	5	true
+481	A man is riding on a horse.	The man is horseback riding a Equus caballus.	4	true
+482	A man is riding on a horse.	The man is horseback riding a Equus caballus.	3	true
+483	A man is riding on a horse.	angstrom unit cycling.	2	true
+484	A man is riding on a horse.	Vir equo vehitur.	1	true
+485	A man is riding a bicycle.	A man is riding a bicycle.	5	true
+486	A man is riding a bicycle.	angstrom adult male rides a bicycle.	4	true
+487	A man is riding a bicycle.	angstrom adult male drive a bicycle.	3	true
+488	A man is riding a bicycle.	angstrom unit man rides a bicycle.	2	true
+489	A man is riding a bicycle.	angstrom unit man riding angstrom bike.	1	true
+490	A man is slicing potatoes.	A man cuts potatoes.	5	true
+491	A man is slicing potatoes.	A adult male cuts potatoes.	4	true
+492	A man is slicing potatoes.	angstrom unit man cut potatoes.	3	true
+493	A man is slicing potatoes.	angstrom cut white potato.	2	true
+494	A man is slicing potatoes.	angstrom cut white potato.	1	true
+495	A woman is peeling a potato.	A woman is peeling a potato.	5	true
+496	A woman is peeling a potato.	A adult female is peeling a white potato.	4	true
+497	A woman is peeling a potato.	angstrom adult female peels her potatoes.	3	true
+498	A woman is peeling a potato.	A adult female desquamation a white potato.	2	true
+499	A woman is peeling a potato.	A adult female desquamation angstrom white potato.	1	true
+500	A man is playing a guitar.	A man is playing the guitar.	5	true
+501	A man is playing a guitar.	A man be playing the guitar.	4	true
+502	A man is playing a guitar.	A adult male play guitar.	3	true
+503	A man is playing a guitar.	Cithara play Robert Adam.	2	true
+504	A man is playing a guitar.	Robert Adam play guitar.	1	true
+505	A woman is slicing a leek.	A woman cuts a green onion.	5	true
+506	A woman is slicing a leek.	A adult female cuts a green onion plant.	4	true
+507	A woman is slicing a leek.	angstrom woman cuts angstrom greenness onion.	3	true
+508	A woman is slicing a leek.	The female person, leek dried.	2	true
+509	A woman is slicing a leek.	angstrom woman cut angstrom scallion.	1	true
+510	The man cut a paper plate.	男は紙皿を切った。	5	true
+511	The man cut a paper plate.	The man gash a paper home plate.	4	true
+512	The man cut a paper plate.	האיש חתך את לוח הנייר.	3	true
+513	The man cut a paper plate.	Recidisset in charta et laminam.	2	true
+514	The man cut a paper plate.	男は紙皿を切った	1	true
+515	The man is playing the guitar.	Der Mann spielt Gitarre.	5	true
+516	The man is playing the guitar.	The man is playing the guitar.	4	true
+517	The man is playing the guitar.	男はギターを弾いています	3	true
+518	The man is playing the guitar.	The man play the guitar.	2	true
+519	The man is playing the guitar.	Vir fidibus canit.	1	true
+520	A man is playing the piano.	A man is playing the piano.	5	true
+521	A man is playing the piano.	'N adult male speel klavier.	4	true
+522	A man is playing the piano.	'N Man speel clavier.	3	true
+523	A man is playing the piano.	אדם מנגן בפסנתר.	2	true
+524	A man is playing the piano.	男がピアノを弾いています	1	true
+525	A woman is slicing up some meat.	女性が肉をスライスしています。	5	true
+526	A woman is slicing up some meat.	A adult female is slice meat.	4	true
+527	A woman is slicing up some meat.	angstrom unit woman cuts kernel.	3	true
+528	A woman is slicing up some meat.	angstrom unit woman cuts approximately meat.	2	true
+529	A woman is slicing up some meat.	A secante mulier cibum.	1	true
+530	A man is playing on his keyboard.	A man is playing on his keyboard.	5	true
+531	A man is playing on his keyboard.	男がキーボードで遊んでいます	4	true
+532	A man is playing on his keyboard.	男がキーボードで遊んでいます	3	true
+533	A man is playing on his keyboard.	男がキーボードで遊んでいます	2	true
+534	A man is playing on his keyboard.	It be a secret plan of his have.	1	true
+535	The lady chopped up the green onions.	The lady chopped up the green onions.	5	true
+536	The lady chopped up the green onions.	Die dame het dice sprietuie gekap.	4	true
+537	The lady chopped up the green onions.	女性は春の玉ねぎを切り刻んだ	3	true
+538	The lady chopped up the green onions.	Concisi cepa domina ubi erat fons.	2	true
+539	The lady chopped up the green onions.	הגברת קצצה את הבצל הירוק.	1	true
+540	Someone is sitring noodles in water.	誰かが水にパスタを座っています。	5	true
+541	Someone is sitring noodles in water.	Jemand sitzt Nudeln im Wasser.	4	true
+542	Someone is sitring noodles in water.	Someone be posing noodles in the H2O.	3	true
+543	Someone is sitring noodles in water.	Adipiscing sit aliquis sedebat in greenish blue.	2	true
+544	Someone is sitring noodles in water.	Someone be sitring noodles inch water.	1	true
+545	Lionel Richie is dancing on the ceiling.	Lionel Richie is dancing on the ceiling.	5	true
+546	Lionel Richie is dancing on the ceiling.	Lionel Richie is dancing on the ceiling.	4	true
+547	Lionel Richie is dancing on the ceiling.	Lionel Ritchie dans op die plafon.	3	true
+548	Lionel Richie is dancing on the ceiling.	Lionel Richie dance to the ceiling.	2	true
+549	Lionel Richie is dancing on the ceiling.	Lionel Richie dance to the ceiling.	1	true
+550	A man is playing a piano.	A man is playing the piano.	5	true
+551	A man is playing a piano.	A adult male play piano.	4	true
+552	A man is playing a piano.	'N adult male speel clavier.	3	true
+553	A man is playing a piano.	drama angstrom piano.	2	true
+554	A man is playing a piano.	Virum qui in pianoforte plays.	1	true
+555	A woman is playing flute.	A woman is playing flute.	5	true
+556	A woman is playing flute.	angstrom unit woman playing flute.	4	true
+557	A woman is playing flute.	angstrom woman acting transverse flute.	3	true
+558	A woman is playing flute.	A female person playing information technology.	2	true
+559	A woman is playing flute.	angstrom adult female playing the transverse flute.	1	true
+560	A boy is checking a calender.	The boy is checking the calendar.	5	true
+561	A boy is checking a calender.	The male child looks at the calendar.	4	true
+562	A boy is checking a calender.	The male child expression at the calendar.	3	true
+563	A boy is checking a calender.	The boy looks astatine the calendar.	2	true
+564	A boy is checking a calender.	The boy looks astatine the calendar.	1	true
+565	A woman is cutting an onion.	A woman is cutting onions.	5	true
+566	A woman is cutting an onion.	angstrom adult female cuts an onion.	4	true
+567	A woman is cutting an onion.	A adult female cut an onion plant.	3	true
+568	A woman is cutting an onion.	The female person secans stress is.	2	true
+569	A woman is cutting an onion.	The female person secans strain is.	1	true
+570	A man is playing guitar.	男がギターを弾いています。	5	true
+571	A man is playing guitar.	A man play guitar.	4	true
+572	A man is playing guitar.	Robert Adam play guitar.	3	true
+573	A man is playing guitar.	Sitara play Robert Adam.	2	true
+574	A man is playing guitar.	Sitara drama Robert Adam.	1	true
+575	A woman is using a sewing machine.	Women use sewing machines.	5	true
+576	A woman is using a sewing machine.	Women use sewing machines.	4	true
+577	A woman is using a sewing machine.	woman usage sewing machine.	3	true
+578	A woman is using a sewing machine.	woman sewing simple machine to use.	2	true
+579	A woman is using a sewing machine.	Women stitching machine to use.	1	true
+580	A woman is flipping pancakes.	A woman is spinning pancakes.	5	true
+581	A woman is flipping pancakes.	A woman spin a battercake.	4	true
+582	A woman is flipping pancakes.	A adult female spin pancake.	3	true
+583	A woman is flipping pancakes.	Mulier tantrum pancake.	2	true
+584	A woman is flipping pancakes.	angstrom femina spheara battercake.	1	true
+585	A man is running on the road.	A man is running down the street.	5	true
+586	A man is running on the road.	A man is running down feather the street.	4	true
+587	A man is running on the road.	angstrom man run down the street.	3	true
+588	A man is running on the road.	Virum cucurrit in platea.	2	true
+589	A man is running on the road.	The adult male ran down feather the street.	1	true
+590	A man is riding on a horse.	A man rides a horse.	5	true
+591	A man is riding on a horse.	Die adult male ry perd.	4	true
+592	A man is riding on a horse.	angstrom adult male rides a horse.	3	true
+593	A man is riding on a horse.	angstrom unit cycle.	2	true
+594	A man is riding on a horse.	angstrom unit cycle.	1	true
+595	A man is riding a bike.	A man is riding a bicycle.	5	true
+596	A man is riding a bike.	'N Man ry fiets.	4	true
+597	A man is riding a bike.	A man thrust angstrom bicycle.	3	true
+598	A man is riding a bike.	angstrom unit man riding a bike.	2	true
+599	A man is riding a bike.	angstrom adult male riding angstrom bicycle.	1	true
+600	A woman is dancing.	The woman is dancing.	5	true
+601	A woman is dancing.	angstrom unit lady dance.	4	true
+602	A woman is dancing.	'N Vrou dans.	3	true
+603	A woman is dancing.	angstrom femina dance.	2	true
+604	A woman is dancing.	angstrom femina dance.	1	true
+605	A man is playing a piano.	A man is playing the piano.	5	true
+606	A man is playing a piano.	angstrom adult male plays piano.	4	true
+607	A man is playing a piano.	Adam plays the pianoforte.	3	true
+608	A man is playing a piano.	angstrom man plays piano.	2	true
+609	A man is playing a piano.	Plays Robert Adam inch pianoforte.	1	true
+610	A man is playing a flute.	A man is playing the flute.	5	true
+611	A man is playing a flute.	angstrom man is playing the transverse flute.	4	true
+612	A man is playing a flute.	A adult male play angstrom flute.	3	true
+613	A man is playing a flute.	advertisement tertium dicendum quod in ludo possunt.	2	true
+614	A man is playing a flute.	play angstrom transverse flute.	1	true
+615	A man is spinning.	The man is spinning.	5	true
+616	A man is spinning.	A man is twirl.	4	true
+617	A man is spinning.	男が向きを変える	3	true
+618	A man is spinning.	Die adult male draai om.	2	true
+619	A man is spinning.	Quod homosexual volvitur circum.	1	true
+620	A monkey is swinging from limb to limb.	A monkey is swinging from limb to limb.	5	true
+621	A monkey is swinging from limb to limb.	猿が手足から手足へと揺れています	4	true
+622	A monkey is swinging from limb to limb.	A imp is swinging from limb to tree branch.	3	true
+623	A monkey is swinging from limb to limb.	猿が手足から手足へと揺れています	2	true
+624	A monkey is swinging from limb to limb.	קוף מתנדנד מאיבר לאיבר.	1	true
+625	The people got off the train.	The people got off the train.	5	true
+626	The people got off the train.	The citizenry got off the railroad train.	4	true
+627	The people got off the train.	The people get murder the railroad train.	3	true
+628	The people got off the train.	The people get off the railroad train.	2	true
+629	The people got off the train.	The people get off the railroad train.	1	true
+630	A dog is jumping on a trampoline.	A dog is jumping on a trampoline.	5	true
+631	A dog is jumping on a trampoline.	A domestic dog is jump on a trampoline.	4	true
+632	A dog is jumping on a trampoline.	A dog is jumping along angstrom trampoline.	3	true
+633	A dog is jumping on a trampoline.	A dog be jumping along a trampoline.	2	true
+634	A dog is jumping on a trampoline.	A dog be jumping along a trampoline.	1	true
+635	A boy is playing an instrument.	A boy is playing an instrument.	5	true
+636	A boy is playing an instrument.	A male child is playing an tool.	4	true
+637	A boy is playing an instrument.	angstrom boy be acting an instrument.	3	true
+638	A boy is playing an instrument.	A male child is acting an tool.	2	true
+639	A boy is playing an instrument.	Puer play instrumenti suadeat.	1	true
+640	A woman plays the guitar.	A woman plays the guitar.	5	true
+641	A woman plays the guitar.	女性がギターを弾きます	4	true
+642	A woman plays the guitar.	女性がギターを弾いています	3	true
+643	A woman plays the guitar.	'N Vrou speel 'n kitaar.	2	true
+644	A woman plays the guitar.	אישה מנגנת בגיטרה.	1	true
+645	A woman is picking a can.	A woman is picking a can.	5	true
+646	A woman is picking a can.	女性が缶を選んでいます	4	true
+647	A woman is picking a can.	angstrom woman be choosing angstrom can.	3	true
+648	A woman is picking a can.	A adult female who be choose a can.	2	true
+649	A woman is picking a can.	angstrom adult female takes angstrom can.	1	true
+650	A man is climbing a rope.	A man is climbing a rope.	5	true
+651	A man is climbing a rope.	'N Man climate' n excessively.	4	true
+652	A man is climbing a rope.	The clime of 'man' excessively.	3	true
+653	A man is climbing a rope.	The climate of angstrom adult male, excessively.	2	true
+654	A man is climbing a rope.	The climate of a adult male, excessively.	1	true
+655	A man is lifting a car.	A man lifts a car.	5	true
+656	A man is lifting a car.	A adult male lifts angstrom car.	4	true
+657	A man is lifting a car.	angstrom man lifts a car.	3	true
+658	A man is lifting a car.	angstrom high car.	2	true
+659	A man is lifting a car.	A man pick astir a auto.	1	true
+660	A man and woman are driving down the street in a jeep.	男と女がジープで通りを運転している。	5	true
+661	A man and woman are driving down the street in a jeep.	A adult male and a woman are driving down the street in a jeep.	4	true
+662	A man and woman are driving down the street in a jeep.	A man and angstrom woman ar driving down the street in a jeep.	3	true
+663	A man and woman are driving down the street in a jeep.	A man and a woman argon driving down the street inch a jeep.	2	true
+664	A man and woman are driving down the street in a jeep.	Mulier quae virum Ac stratam raeda vectus in landrover.	1	true
+665	The shirtless man sat in a chair.	The shirtless man sat in a chair.	5	true
+666	The shirtless man sat in a chair.	Die shirtless man sit down in 'n stoel.	4	true
+667	The shirtless man sat in a chair.	The shirtless man is sitting on angstrom chair.	3	true
+668	The shirtless man sat in a chair.	Shirtless man World Health Organization Washington sitting on a chair.	2	true
+669	The shirtless man sat in a chair.	Shirtless Eastern Time homosexual qui sedebat super sellam.	1	true
+670	Two women are wrestling.	Two women are fighting.	5	true
+671	Two women are wrestling.	Two adult female fight.	4	true
+672	Two women are wrestling.	2 women wrestle.	3	true
+673	Two women are wrestling.	twosome sunt feminarum pugnam.	2	true
+674	Two women are wrestling.	Two woman argon fight.	1	true
+675	The puppy played with a blue tennis ball.	The puppy was playing with a blue tennis ball.	5	true
+676	The puppy played with a blue tennis ball.	The pup played with a blue lawn tennis ball.	4	true
+677	The puppy played with a blue tennis ball.	הגור שיחק עם כדור טניס כחול.	3	true
+678	The puppy played with a blue tennis ball.	The pup, which drama a blue lawn tennis ball.	2	true
+679	The puppy played with a blue tennis ball.	The puppy, which play a blueness lawn tennis musket ball.	1	true
+680	A kangroo is eating something.	カンガルーは何かを食べています。	5	true
+681	A kangroo is eating something.	Kangaroo be eating something.	4	true
+682	A kangroo is eating something.	קנגורו אוכל משהו.	3	true
+683	A kangroo is eating something.	kangaroo provender something.	2	true
+684	A kangroo is eating something.	blackball form feed anything.	1	true
+685	A cat is playing a piano.	The cat plays the piano.	5	true
+686	A cat is playing a piano.	That cat plays keyboard.	4	true
+687	A cat is playing a piano.	החתול מנגן בפסנתר.	3	true
+688	A cat is playing a piano.	A cat play the pianoforte.	2	true
+689	A cat is playing a piano.	angstrom unit cat plays the piano.	1	true
+690	The man cut some carpet with a knife.	The man cut the carpet with a knife.	5	true
+691	The man cut some carpet with a knife.	The man cut the carpet with a knife.	4	true
+692	The man cut some carpet with a knife.	The man gash the rug with a knife.	3	true
+693	The man cut some carpet with a knife.	Recidisset in tapete cum cultro.	2	true
+694	The man cut some carpet with a knife.	hide on the carpet with a knife.	1	true
+695	A woman is riding a motorized scooter down a road.	A woman is driving down a scooter.	5	true
+696	A woman is riding a motorized scooter down a road.	A woman rides down feather with angstrom scooter.	4	true
+697	A woman is riding a motorized scooter down a road.	A woman thrust downstair with a scooter.	3	true
+698	A woman is riding a motorized scooter down a road.	A adult female sit down feather scooter.	2	true
+699	A woman is riding a motorized scooter down a road.	angstrom woman sit down down water scooter.	1	true
+700	someone is slicing a vegetable.	Someone is slicing vegetables.	5	true
+701	someone is slicing a vegetable.	someone cuts angstrom veggie.	4	true
+702	someone is slicing a vegetable.	Someone be film editing vegetable.	3	true
+703	someone is slicing a vegetable.	person hide vegetable.	2	true
+704	someone is slicing a vegetable.	person hide along the blade.	1	true
+705	A woman is dancing.	A woman is dancing.	5	true
+706	A woman is dancing.	Eine Frau tanzt.	4	true
+707	A woman is dancing.	angstrom adult female dance.	3	true
+708	A woman is dancing.	angstrom femina qui choris.	2	true
+709	A woman is dancing.	אישה רוקדת.	1	true
+710	A dog licks up a baby's drool.	The dog licks the baby's drool.	5	true
+711	A dog licks up a baby's drool.	A domestic dog licks up angstrom baby's drool.	4	true
+712	A dog licks up a baby's drool.	The domestic dog licks the baby's drool.	3	true
+713	A dog licks up a baby's drool.	genus Canis lambit infantem in virus.	2	true
+714	A dog licks up a baby's drool.	From the grass to the dog, astatine the human foot of the baby's saliva.	1	true
+715	A man is rowing a boat.	A man is rowing a boat.	5	true
+716	A man is rowing a boat.	'N Man roei 'n knock.	4	true
+717	A man is rowing a boat.	Ein Mann rudert ein bang.	3	true
+718	A man is rowing a boat.	Ad tertium dicendum quod remigio navis.	2	true
+719	A man is rowing a boat.	אדם חותר בסירה.	1	true
+720	A man cuts up potatos.	Ein Mann schneidet Kartoffeln.	5	true
+721	A man cuts up potatos.	'N Man sny aartappels op.	4	true
+722	A man cuts up potatos.	'N adult male sny 'n aartappel.	3	true
+723	A man cuts up potatos.	Ein Mann schneidet Kartoffeln.	2	true
+724	A man cuts up potatos.	'N adult male sny aartappels op.	1	true
+725	A woman is chopping up garlic.	A woman is chopping up garlic.	5	true
+726	A woman is chopping up garlic.	A adult female is chop up garlic.	4	true
+727	A woman is chopping up garlic.	女性がにんにくを切り刻んでいます	3	true
+728	A woman is chopping up garlic.	'N Vrou kap knoffel op.	2	true
+729	A woman is chopping up garlic.	A femina genus Allium Peter Minuit concisaque construit.	1	true
+730	An animal run in circles.	Animals run in a circle.	5	true
+731	An animal run in circles.	An animate being run in circles.	4	true
+732	An animal run in circles.	An animal tally in circles.	3	true
+733	An animal run in circles.	inch circulo animalium currunt.	2	true
+734	An animal run in circles.	Diere hardloop inch 'n sirkel.	1	true
+735	A man is walking slowly across a rope bridge.	A man is walking slowly across a rope bridge.	5	true
+736	A man is walking slowly across a rope bridge.	A man walks slowly on a R-2 pause bridge.	4	true
+737	A man is walking slowly across a rope bridge.	A adult male be walking slowly across angstrom rope bridge.	3	true
+738	A man is walking slowly across a rope bridge.	男がロープのつり橋をゆっくり歩いている	2	true
+739	A man is walking slowly across a rope bridge.	A adult male walks slow over a Mexican valium bridge.	1	true
+740	A man is playing the guitar.	Ein Mann spielt Gitarre.	5	true
+741	A man is playing the guitar.	A man play guitar.	4	true
+742	A man is playing the guitar.	Adam play guitar.	3	true
+743	A man is playing the guitar.	Robert Adam plays guitar.	2	true
+744	A man is playing the guitar.	Cithara play Adam.	1	true
+745	A man plays the flute.	A man plays the flute.	5	true
+746	A man plays the flute.	angstrom man be playing the flute.	4	true
+747	A man plays the flute.	A man play the transverse flute.	3	true
+748	A man plays the flute.	drama a transverse flute.	2	true
+749	A man plays the flute.	Can drama a mathematical function.	1	true
+750	A woman cracks two eggs into a glass bowl.	A woman breaks two eggs into a glass bowl.	5	true
+751	A woman cracks two eggs into a glass bowl.	A woman breaks two eggs in a glass bowl.	4	true
+752	A woman cracks two eggs into a glass bowl.	angstrom adult female breaks two eggs in a glass trough.	3	true
+753	A woman cracks two eggs into a glass bowl.	A femina ova duo erumpit inch patera speculum.	2	true
+754	A woman cracks two eggs into a glass bowl.	A woman breaks 2 eggs inch vitro.	1	true
+755	A man is cutting a fish.	A man cuts a fish.	5	true
+756	A man is cutting a fish.	'N adult male sny 'n six.	4	true
+757	A man is cutting a fish.	A man is film editing Pisces.	3	true
+758	A man is cutting a fish.	He dried Pisces.	2	true
+759	A man is cutting a fish.	helium dry fish.	1	true
+760	Two men are packing suitcases into the trunk of a car.	2人の男性が車のトランクにスーツケースを詰めています。	5	true
+761	Two men are packing suitcases into the trunk of a car.	2 men battalion suitcases in the boot of a car.	4	true
+762	Two men are packing suitcases into the trunk of a car.	Two men ar packing their luggage in the trunk of the car.	3	true
+763	Two men are packing suitcases into the trunk of a car.	Vestimenta sua Duo homines loci sarcinas specta ad truncum car.	2	true
+764	Two men are packing suitcases into the trunk of a car.	The two men were packing their luggage in the trunk of angstrom car.	1	true
+765	A man pours oil on some tomatos.	A man pours oil on some tomatoes.	5	true
+766	A man pours oil on some tomatos.	The man inunct some tomatoes.	4	true
+767	A man pours oil on some tomatos.	The man smear approximately tomatoes.	3	true
+768	A man pours oil on some tomatos.	Meanwhile, a man was smear love apple.	2	true
+769	A man pours oil on some tomatos.	Meanwhile, angstrom man Washington D.C. smeared tomato.	1	true
+770	A man is slicing something.	The man cuts something.	5	true
+771	A man is slicing something.	The man cut something.	4	true
+772	A man is slicing something.	The adult male cuts something.	3	true
+773	A man is slicing something.	He gash done it.	2	true
+774	A man is slicing something.	information technology dried nothing.	1	true
+775	A man is paddling a canoe.	A man rowes a canoe.	5	true
+776	A man is paddling a canoe.	Nmanroei?	4	true
+777	A man is paddling a canoe.	'Nimroy'?	3	true
+778	A man is paddling a canoe.	'Nimroy'?	2	true
+779	A man is paddling a canoe.	'Nimroy'?	1	true
+780	A man and woman are walking together through the woods.	A man and a woman are walking in the woods together.	5	true
+781	A man and woman are walking together through the woods.	angstrom man and a woman are walking unitedly in the woods.	4	true
+782	A man and woman are walking together through the woods.	A adult male and a woman walk together in the woods.	3	true
+783	A man and woman are walking together through the woods.	The walk of a man in the woods.	2	true
+784	A man and woman are walking together through the woods.	A woman, and a walk in the wood together.	1	true
+785	The woman picked up the kangaroo.	The woman picked up the kangaroo.	5	true
+786	The woman picked up the kangaroo.	The adult female picks astir a kangaroo.	4	true
+787	The woman picked up the kangaroo.	The woman pick astir a kangaroo.	3	true
+788	The woman picked up the kangaroo.	The woman picks up angstrom unit kangaroo court.	2	true
+789	The woman picked up the kangaroo.	female person kangaroo relocation.	1	true
+790	Fish are swimming.	The fish are swimming.	5	true
+791	Fish are swimming.	Die visse swem.	4	true
+792	Fish are swimming.	The Pisces the Fishes ar swimming.	3	true
+793	Fish are swimming.	דגים שוחים.	2	true
+794	Fish are swimming.	The Pisces the Fishes are swim.	1	true
+795	Two women mix something in a food processor.	Two women mix something in a food processor.	5	true
+796	Two women mix something in a food processor.	Twee vroue meng iets met 'n voedselverwerker.	4	true
+797	Two women mix something in a food processor.	Two women premix something with a nutrient processor.	3	true
+798	Two women mix something in a food processor.	Duae mulieres conspergunt cum aliquid cibi processus.	2	true
+799	Two women mix something in a food processor.	2 adult female with a nutrient processor.	1	true
+800	A person is surfing a large wave.	People are surfing big waves.	5	true
+801	A person is surfing a large wave.	A person surfboarding angstrom big wave.	4	true
+802	A person is surfing a large wave.	A individual surfing a big moving ridge.	3	true
+803	A person is surfing a large wave.	אדם הגולש בגל גדול.	2	true
+804	A person is surfing a large wave.	citizenry surf the large wave.	1	true
+805	A man is playing a guitar.	A man is playing the guitar.	5	true
+806	A man is playing a guitar.	'N Man speel kitaar.	4	true
+807	A man is playing a guitar.	angstrom adult male plays guitar.	3	true
+808	A man is playing a guitar.	Cithara play Robert Adam.	2	true
+809	A man is playing a guitar.	אדם מנגן בגיטרה.	1	true
+810	A man is playing a flute in a band.	A man is playing a flute in a band.	5	true
+811	A man is playing a flute in a band.	A adult male be playing a flute in a band.	4	true
+812	A man is playing a flute in a band.	A man play the flute in Associate in Nursing orchestra.	3	true
+813	A man is playing a flute in a band.	Ad tertium dicendum quod inch ludo tibia resonabit cohortem.	2	true
+814	A man is playing a flute in a band.	drama a transverse flute in the band.	1	true
+815	The man spread butter on the loaf of bread.	男は一斤のパンにバターを塗った。	5	true
+816	The man spread butter on the loaf of bread.	Die man smeer botter op die dwell.	4	true
+817	The man spread butter on the loaf of bread.	男は一斤のパンにバターを塗った	3	true
+818	The man spread butter on the loaf of bread.	Et quis extendit superintendent panis, butyrum.	2	true
+819	The man spread butter on the loaf of bread.	האיש מורח חמאה על הלחם.	1	true
+820	A person is boiling noodles.	Eine Person kocht Nudeln.	5	true
+821	A person is boiling noodles.	A person be boiling noodle.	4	true
+822	A person is boiling noodles.	angstrom adult male stewing noodles.	3	true
+823	A person is boiling noodles.	angstrom persona percoquas noodle.	2	true
+824	A person is boiling noodles.	人が麺を茹でています	1	true
+825	A group of people dance on a hill.	人々のグループが丘の上で踊ります。	5	true
+826	A group of people dance on a hill.	angstrom group of people dance on a hill.	4	true
+827	A group of people dance on a hill.	קבוצת אנשים רוקדת על הגבעה.	3	true
+828	A group of people dance on a hill.	A group of citizenry dancing along the mound.	2	true
+829	A group of people dance on a hill.	angstrom grouping of citizenry dance on a mound.	1	true
+830	A man is dancing outside.	A man is dancing outside.	5	true
+831	A man is dancing outside.	A man is dancing outside.	4	true
+832	A man is dancing outside.	A adult male dancing outside.	3	true
+833	A man is dancing outside.	Virum extra chorum saltare.	2	true
+834	A man is dancing outside.	The dance outside.	1	true
+835	A woman is feeding a man.	A woman is feeding a man.	5	true
+836	A woman is feeding a man.	女性は男性を養います	4	true
+837	A woman is feeding a man.	נשים מאכילות גברים.	3	true
+838	A woman is feeding a man.	Women feed the citizenry.	2	true
+839	A woman is feeding a man.	adult female hominum pascere.	1	true
+840	A man is putting a pan into an oven.	A man is putting a pot in the oven.	5	true
+841	A man is putting a pan into an oven.	angstrom adult male is putting a pot in the oven.	4	true
+842	A man is putting a pan into an oven.	The man puts the toilet in the oven.	3	true
+843	A man is putting a pan into an oven.	The man puts the toilet in the oven.	2	true
+844	A man is putting a pan into an oven.	A individual puts a cooking pan inch the oven.	1	true
+845	A woman is sitting at a desk.	A woman is sitting at a desk.	5	true
+846	A woman is sitting at a desk.	angstrom woman is sitting at a desk.	4	true
+847	A woman is sitting at a desk.	A woman is posing at angstrom desk.	3	true
+848	A woman is sitting at a desk.	A adult female sitting at a table.	2	true
+849	A woman is sitting at a desk.	A adult female posing astatine the desk.	1	true
+850	Medics transport a patient on a stretcher.	Medics transport a patient on a stretcher.	5	true
+851	Medics transport a patient on a stretcher.	Medical staff conveyance patients on portable.	4	true
+852	Medics transport a patient on a stretcher.	Medical faculty transport patient on portable.	3	true
+853	Medics transport a patient on a stretcher.	Sick in bed with him.	2	true
+854	Medics transport a patient on a stretcher.	The medical faculty carries Mobile River patients.	1	true
+855	A woman is playing a flute on stage.	Eine Frau spielt auf der Bühne Flöte.	5	true
+856	A woman is playing a flute on stage.	angstrom woman plays angstrom flute on stage.	4	true
+857	A woman is playing a flute on stage.	A woman play a flute along phase.	3	true
+858	A woman is playing a flute on stage.	A femina play tibia ut intret in scaena.	2	true
+859	A woman is playing a flute on stage.	A adult female plays a transverse flute on stage.	1	true
+860	Two baby pandas are playing.	Two baby pandas are playing.	5	true
+861	Two baby pandas are playing.	Two baba pandas are playing.	4	true
+862	Two baby pandas are playing.	שתי פנדות באבא משחקות.	3	true
+863	Two baby pandas are playing.	two swerve backwards into play.	2	true
+864	Two baby pandas are playing.	two out of Baba tyre playing.	1	true
+865	A baby is laughing.	The baby laughs.	5	true
+866	A baby is laughing.	die baba lag.	4	true
+867	A baby is laughing.	The baby was lying down feather.	3	true
+868	A baby is laughing.	The babe Washington prevarication down.	2	true
+869	A baby is laughing.	The babe beryllium lying.	1	true
+870	A man is playing a guitar.	A man is playing the guitar.	5	true
+871	A man is playing a guitar.	A man drama guitar.	4	true
+872	A man is playing a guitar.	Robert Adam play guitar.	3	true
+873	A man is playing a guitar.	Sitara play Adam.	2	true
+874	A man is playing a guitar.	angstrom acting the guitar.	1	true
+875	A man is folding paper.	A man folds a piece of paper.	5	true
+876	A man is folding paper.	A man crease a piece of paper.	4	true
+877	A man is folding paper.	A adult male fold angstrom piece of paper.	3	true
+878	A man is folding paper.	angstrom complicat angstrom unit piece of paper.	2	true
+879	A man is folding paper.	The all in man be origami.	1	true
+880	Three women are dancing.	Three women dance.	5	true
+881	Three women are dancing.	3 women dancing.	4	true
+882	Three women are dancing.	Three woman ar dance.	3	true
+883	Three women are dancing.	3 woman dancing.	2	true
+884	Three women are dancing.	three women dance.	1	true
+885	The cats are playing with each other.	The cats are playing with each other.	5	true
+886	The cats are playing with each other.	The cats play with to each one other.	4	true
+887	The cats are playing with each other.	The cat play with to each one other.	3	true
+888	The cats are playing with each other.	The cat drama with each other.	2	true
+889	The cats are playing with each other.	Ludere se feles.	1	true
+890	A person is writing.	One person is writing.	5	true
+891	A person is writing.	一人が書いています	4	true
+892	A person is writing.	'N Persoon skryf.	3	true
+893	A person is writing.	אדם אחד כותב.	2	true
+894	A person is writing.	angstrom unit individual is authorship.	1	true
+895	A man is running.	男が走っている。	5	true
+896	A man is running.	A adult male be running.	4	true
+897	A man is running.	אדם רץ.	3	true
+898	A man is running.	angstrom unit adult male running.	2	true
+899	A man is running.	אדם רץ.	1	true
+900	The woman is rolling dough.	The woman is rolling dough.	5	true
+901	The woman is rolling dough.	The adult female is rolling the dough.	4	true
+902	The woman is rolling dough.	The adult female is peal dough.	3	true
+903	The woman is rolling dough.	女性は生地を転がしています	2	true
+904	The woman is rolling dough.	The adult female axial rotation the dough.	1	true
+905	A woman is adding spices on a meat.	A woman is adding spices on a meat.	5	true
+906	A woman is adding spices on a meat.	A adult female is adding spices along a meat.	4	true
+907	A woman is adding spices on a meat.	angstrom woman attention deficit disorder spices to kernel.	3	true
+908	A woman is adding spices on a meat.	A femina cibum sibi adiungit aromatibus conficiebant.	2	true
+909	A woman is adding spices on a meat.	The adult female says Henry Sweet spices, sat down feather to meat.	1	true
+910	A woman is adding oil on fishes.	女性が魚に油を加える。	5	true
+911	A woman is adding oil on fishes.	angstrom woman is adding oil color on fishes.	4	true
+912	A woman is adding oil on fishes.	A woman be adding oil to angstrom Pisces.	3	true
+913	A woman is adding oil on fishes.	A adult female be adding oil to a Pisces.	2	true
+914	A woman is adding oil on fishes.	A addit est mulier oleum de piscibus.	1	true
+915	A young boy is holding a guitar.	The boy has a guitar.	5	true
+916	A young boy is holding a guitar.	A offspring boy is holding a guitar.	4	true
+917	A young boy is holding a guitar.	少年がギターを持っています	3	true
+918	A young boy is holding a guitar.	There was also another young man, a young adult male retention angstrom guitar.	2	true
+919	A young boy is holding a guitar.	The male child has a guitar.	1	true
+920	A cheetah is running.	The cheetah is running.	5	true
+921	A cheetah is running.	angstrom cheetah is run.	4	true
+922	A cheetah is running.	The chetah be working.	3	true
+923	A cheetah is running.	Helios privation.	2	true
+924	A cheetah is running.	'N Jagluiperd hardloop.	1	true
+925	The man is eating pizza.	The man is eating pizza.	5	true
+926	The man is eating pizza.	The man be eating pizza pie.	4	true
+927	The man is eating pizza.	האיש אוכל פיצה.	3	true
+928	The man is eating pizza.	The adult male is feeding pizza.	2	true
+929	The man is eating pizza.	The man be eating pizza.	1	true
+930	An orangutan is riding a bus.	An orangutan is riding a bus.	5	true
+931	An orangutan is riding a bus.	An orangutan rides angstrom autobus.	4	true
+932	An orangutan is riding a bus.	אורן אוטן נוסע באוטובוס.	3	true
+933	An orangutan is riding a bus.	Aram Uten drive bus.	2	true
+934	An orangutan is riding a bus.	random-access memory employment the bus journey.	1	true
+935	A man and a woman talk in a diner.	A man and a woman are talking in the dining room.	5	true
+936	A man and a woman talk in a diner.	A man and a adult female ar talking in the cafeteria.	4	true
+937	A man and a woman talk in a diner.	Men and women talk in the cafeteria.	3	true
+938	A man and a woman talk in a diner.	גבר ואישה מדברים בקפיטריה.	2	true
+939	A man and a woman talk in a diner.	A adult male and a woman are talk in the cafeteria.	1	true
+940	A man is playing a guitar.	A man is playing the guitar.	5	true
+941	A man is playing a guitar.	angstrom adult male plays guitar.	4	true
+942	A man is playing a guitar.	Robert Adam play guitar.	3	true
+943	A man is playing a guitar.	Sitara play Adam.	2	true
+944	A man is playing a guitar.	Scattered blazing love.	1	true
+945	A girl is singing and playing a guitar.	The girl sings and plays the guitar.	5	true
+946	A girl is singing and playing a guitar.	The miss sings and plays guitar.	4	true
+947	A girl is singing and playing a guitar.	The girl sing and drama the guitar.	3	true
+948	A girl is singing and playing a guitar.	The girls whistle and play the guitar.	2	true
+949	A girl is singing and playing a guitar.	The girls whistling and play the guitar.	1	true
+950	A girl is communicating with sign language.	Girls communicate using the sign language.	5	true
+951	A girl is communicating with sign language.	angstrom girl communicates exploitation sign language.	4	true
+952	A girl is communicating with sign language.	girl communicate inch mark language.	3	true
+953	A girl is communicating with sign language.	The girls communicate with grade linguistic communication.	2	true
+954	A girl is communicating with sign language.	The girl communicate with mark linguistic communication.	1	true
+955	A woman is doing weight exercises.	A woman is doing weight exercise.	5	true
+956	A woman is doing weight exercises.	A adult female doing weight exercise.	4	true
+957	A woman is doing weight exercises.	A adult female who does weight exercises.	3	true
+958	A woman is doing weight exercises.	angstrom woman free weight exercise.	2	true
+959	A woman is doing weight exercises.	information technology is of import for a woman doing a goodness bend.	1	true
+960	A man is getting inside a car.	A man is in the car.	5	true
+961	A man is getting inside a car.	There's a man in the car.	4	true
+962	A man is getting inside a car.	There's angstrom man inch the auto.	3	true
+963	A man is getting inside a car.	The man got into the auto.	2	true
+964	A man is getting inside a car.	A adult male acquire into the car.	1	true
+965	A big green ball knocks a potato over.	Eine große grüne Kugel wirft eine Kartoffel um.	5	true
+966	A big green ball knocks a potato over.	A large verdancy ball beats the potato.	4	true
+967	A big green ball knocks a potato over.	כדור ירוק גדול מכה את תפוח האדמה.	3	true
+968	A big green ball knocks a potato over.	angstrom musket ball is beaten by angstrom large green potato.	2	true
+969	A big green ball knocks a potato over.	A musket ball is beaten past a big green potato.	1	true
+970	A cat is playing keyboards.	The cat is playing the keyboard.	5	true
+971	A cat is playing keyboards.	A true cat plays the keyboard.	4	true
+972	A cat is playing keyboards.	The true cat plays along the keyboard.	3	true
+973	A cat is playing keyboards.	A true cat who is acting on the keyboard.	2	true
+974	A cat is playing keyboards.	angstrom cat drama the keyboard.	1	true
+975	Two dogs swim in a pool.	2匹の犬がプールで泳ぎます。	5	true
+976	Two dogs swim in a pool.	Twee honde swem inch 'n swembad.	4	true
+977	Two dogs swim in a pool.	delicacy honde swem in die swembad.	3	true
+978	Two dogs swim in a pool.	Duae sunt in stagnum natantibus canibus.	2	true
+979	Two dogs swim in a pool.	Twee honde swem inch dice swembad.	1	true
+980	The man used a chopper to chop the onion.	The man chopped the onion with a helicopter.	5	true
+981	The man used a chopper to chop the onion.	The man chop the onion plant into a helicopter.	4	true
+982	The man used a chopper to chop the onion.	The adult male cut the onion into a helicopter.	3	true
+983	The man used a chopper to chop the onion.	האיש השתמש במסוק כדי לקצוץ את הבצלים.	2	true
+984	The man used a chopper to chop the onion.	The adult male used angstrom helicopter to chop the onion plant.	1	true
+985	A woman slices tofu.	A woman slices tofu.	5	true
+986	A woman slices tofu.	angstrom woman cuts bean curd.	4	true
+987	A woman slices tofu.	angstrom adult female film editing tofu.	3	true
+988	A woman slices tofu.	angstrom woman gash bean curd.	2	true
+989	A woman slices tofu.	女性が豆腐をスライスします	1	true
+990	A herd of deer are crossing the street.	A herd of deer are crossing the street.	5	true
+991	A herd of deer are crossing the street.	angstrom unit herd of deer is crossing the street.	4	true
+992	A herd of deer are crossing the street.	鹿の群れが通りを横切っています	3	true
+993	A herd of deer are crossing the street.	Grex grege cervos iaculari et morati sunt in platea.	2	true
+994	A herd of deer are crossing the street.	Grex genus Cervus theodolite iter.	1	true
+995	The person is riding the horse.	The person is riding the horse.	5	true
+996	The person is riding the horse.	The person drive the horse.	4	true
+997	The person is riding the horse.	dice individual reitet hyrax Pferd.	3	true
+998	The person is riding the horse.	האדם רוכב על סוס.	2	true
+999	The person is riding the horse.	The person is horseback riding the Equus caballus.	1	true
+1000	Someone is feeding a animal.	Someone is feeding a animal.	5	true
+1001	Someone is feeding a animal.	誰かが動物に餌をやっています	4	true
+1002	Someone is feeding a animal.	Someone be feeding a animate being.	3	true
+1003	Someone is feeding a animal.	individual is feeding angstrom animal.	2	true
+1004	Someone is feeding a animal.	Iemand voer die dier.	1	true
+1005	Someone is slicing tortila's.	誰かがトルティーヤをスライスしています。	5	true
+1006	Someone is slicing tortila's.	person is slice tortila's.	4	true
+1007	Someone is slicing tortila's.	Someone is slice tortila's.	3	true
+1008	Someone is slicing tortila's.	Jemand schneidet Tortilas.	2	true
+1009	Someone is slicing tortila's.	individual sny tortilas.	1	true
+1010	Someone is mixing ingrediants.	誰かが材料を混ぜています。	5	true
+1011	Someone is mixing ingrediants.	Iemand meng die bestanddele.	4	true
+1012	Someone is mixing ingrediants.	person beryllium mixing ingredients.	3	true
+1013	Someone is mixing ingrediants.	Someone premix ingredient.	2	true
+1014	Someone is mixing ingrediants.	Aliquis permixtus rebus.	1	true
+1015	A rooster pecks at a dead mouse.	A rooster pecks at a dead mouse.	5	true
+1016	A rooster pecks at a dead mouse.	A rooster picks at a dead black eye.	4	true
+1017	A rooster pecks at a dead mouse.	Andori pang angstrom all in mouse.	3	true
+1018	A rooster pecks at a dead mouse.	Ondori batch a dead shiner.	2	true
+1019	A rooster pecks at a dead mouse.	תרנגול מרים לעכבר מת.	1	true
+1020	A woman holds a kangaroo.	女性がカンガルーを持っています。	5	true
+1021	A woman holds a kangaroo.	A woman hour angle angstrom kangaroo.	4	true
+1022	A woman holds a kangaroo.	אישה אוחזת בקנגורו.	3	true
+1023	A woman holds a kangaroo.	Femina est iudicium praeiudicatum.	2	true
+1024	A woman holds a kangaroo.	The adult female beryllium a kangaroo.	1	true
+1025	A man is playing with frogs	Man playing with a frog	5	true
+1026	A man is playing with frogs	Man play with padda	4	true
+1027	A man is playing with frogs	adult male drama with padda	3	true
+1028	A man is playing with frogs	A man playing with angstrom frog	2	true
+1029	A man is playing with frogs	angstrom World Health Organization play with frogs	1	true
+1030	Two men are talking.	二人の男が話している。	5	true
+1031	Two men are talking.	Two work force are talk.	4	true
+1032	Two men are talking.	two men ar talking.	3	true
+1033	Two men are talking.	The 2 work force are talk.	2	true
+1034	Two men are talking.	The 2 work force ar talking.	1	true
+1035	A man spreads butter on a big piece of bread.	A man spreads butter on a large loaf of bread.	5	true
+1036	A man spreads butter on a big piece of bread.	A man spreads butter on angstrom large loaf of bread.	4	true
+1037	A man spreads butter on a big piece of bread.	A individual spreads butter on angstrom large loaf of bread of bread.	3	true
+1038	A man spreads butter on a big piece of bread.	The adult male and spreads through a large loaf of bread of bread, butter.	2	true
+1039	A man spreads butter on a big piece of bread.	The adult male and spreads done angstrom big loaf of bread, butter.	1	true
+1040	A man is running across a high wire.	A man is walking a tightrope.	5	true
+1041	A man is running across a high wire.	angstrom man walks a R-2.	4	true
+1042	A man is running across a high wire.	A man walks along angstrom unit rope.	3	true
+1043	A man is running across a high wire.	Man running on the R-2.	2	true
+1044	A man is running across a high wire.	A adult male walk into the R-2.	1	true
+1045	A man is mowing a lawn.	A man is mowing the lawn.	5	true
+1046	A man is mowing a lawn.	A adult male mows the lawn.	4	true
+1047	A man is mowing a lawn.	A man hayloft the lawn.	3	true
+1048	A man is mowing a lawn.	Virum flauentia demetit gramina.	2	true
+1049	A man is mowing a lawn.	haymow angstrom lawn.	1	true
+1050	A man is opening a door.	A man opens the door.	5	true
+1051	A man is opening a door.	A man clear the door.	4	true
+1052	A man is opening a door.	angstrom unit man open the door.	3	true
+1053	A man is opening a door.	A adult male opens the door.	2	true
+1054	A man is opening a door.	angstrom unit adult male opens the doorway.	1	true
+1055	A man is slicing a potato into pieces.	The man chops the potatoes.	5	true
+1056	A man is slicing a potato into pieces.	The man chop shot the potatoes.	4	true
+1057	A man is slicing a potato into pieces.	The man chop the potato.	3	true
+1058	A man is slicing a potato into pieces.	The chops with potatoes.	2	true
+1059	A man is slicing a potato into pieces.	The chops with white potato.	1	true
+1060	The woman is cutting cooked octopus.	The woman cuts the boiled squid.	5	true
+1061	The woman is cutting cooked octopus.	The woman cuts the cooked squid.	4	true
+1062	The woman is cutting cooked octopus.	The woman cuts the cooked calamari.	3	true
+1063	The woman is cutting cooked octopus.	In some places it cut angstrom cooked inch squid.	2	true
+1064	The woman is cutting cooked octopus.	in some topographic point information technology cuts a cooked in squid.	1	true
+1065	A man is punching through boards.	男がボードを叩きます。	5	true
+1066	A man is punching through boards.	A man strikes through the board.	4	true
+1067	A man is punching through boards.	The adult male hits the plate.	3	true
+1068	A man is punching through boards.	The eye at the home plate.	2	true
+1069	A man is punching through boards.	Et quispiam oculum ad laminam.	1	true
+1070	A man is dancing.	A man is dancing.	5	true
+1071	A man is dancing.	'N adult male dans.	4	true
+1072	A man is dancing.	adult male bacillus.	3	true
+1073	A man is dancing.	homosexual B.	2	true
+1074	A man is dancing.	adult male B.	1	true
+1075	Someone is playing a piano.	Someone is playing the piano.	5	true
+1076	Someone is playing a piano.	Someone is playing the piano.	4	true
+1077	Someone is playing a piano.	Iemand speel clavier.	3	true
+1078	Someone is playing a piano.	play aliquis eorum magister loquitur.	2	true
+1079	Someone is playing a piano.	individual is acting the pianoforte.	1	true
+1080	Two foxes are eating from a plate on a brick patio.	2匹のキツネがレンガのテラスの皿から食べています。	5	true
+1081	Two foxes are eating from a plate on a brick patio.	2 foxes eat from a plate on a brick patio.	4	true
+1082	Two foxes are eating from a plate on a brick patio.	Two foxes eat angstrom plate on a brick porch.	3	true
+1083	Two foxes are eating from a plate on a brick patio.	Two of the foxes, when you take at the face of the plate to be in them.	2	true
+1084	Two foxes are eating from a plate on a brick patio.	Duo laminam sit in angstrom record album genus Vulpes manducare Nunc.	1	true
+1085	A boy is playing a key-board.	A boy is playing a key-board.	5	true
+1086	A boy is playing a key-board.	Ein Junge spielt eine Tastatur.	4	true
+1087	A boy is playing a key-board.	A male child be playing a keyplank.	3	true
+1088	A boy is playing a key-board.	angstrom puer ludit angstrom cappella.	2	true
+1089	A boy is playing a key-board.	ילד מנגן במקלדת.	1	true
+1090	A person plays a keyboard.	A person plays a keyboard.	5	true
+1091	A person plays a keyboard.	angstrom individual plays a keyboard.	4	true
+1092	A person plays a keyboard.	angstrom man is playing along the keyboard.	3	true
+1093	A person plays a keyboard.	The adult male playing the electric automobile piano.	2	true
+1094	A person plays a keyboard.	A individual drama a keyboard.	1	true
+1095	A man is shooting a gun.	A man is shooting a gun.	5	true
+1096	A man is shooting a gun.	A man be shot a gun.	4	true
+1097	A man is shooting a gun.	angstrom man is shooting a heavy weapon.	3	true
+1098	A man is shooting a gun.	angstrom man be shooting a artillery.	2	true
+1099	A man is shooting a gun.	angstrom unit adult male is shot a gun.	1	true
+1100	Someone is slicing an onion.	Someone is slicing an onion.	5	true
+1101	Someone is slicing an onion.	Someone be slice an onion.	4	true
+1102	Someone is slicing an onion.	Someone is film editing onions.	3	true
+1103	Someone is slicing an onion.	person is slicing an onion plant.	2	true
+1104	Someone is slicing an onion.	person be slice an onion plant.	1	true
+1105	A man is swimming.	A man is swimming.	5	true
+1106	A man is swimming.	A adult male be swimming.	4	true
+1107	A man is swimming.	男が泳いでいます	3	true
+1108	A man is swimming.	A adult male is swim.	2	true
+1109	A man is swimming.	A adult male beryllium swimming.	1	true
+1110	A man is playing the guitar.	A man is playing the guitar.	5	true
+1111	A man is playing the guitar.	A adult male is acting the guitar.	4	true
+1112	A man is playing the guitar.	angstrom man plays guitar.	3	true
+1113	A man is playing the guitar.	angstrom playing the guitar.	2	true
+1114	A man is playing the guitar.	disperse blazing passion.	1	true
+1115	A woman is slicing a pumpkin.	Eine Frau schneidet einen Kürbis.	5	true
+1116	A woman is slicing a pumpkin.	'N Vrou sny 'n pampoen.	4	true
+1117	A woman is slicing a pumpkin.	angstrom adult female film editing a pumpkin.	3	true
+1118	A woman is slicing a pumpkin.	angstrom unit adult female cutting a pumpkin.	2	true
+1119	A woman is slicing a pumpkin.	angstrom femina cutting inch genus Cucurbita.	1	true
+1120	A woman is dancing.	The woman is dancing.	5	true
+1121	A woman is dancing.	angstrom dame dance.	4	true
+1122	A woman is dancing.	A adult female dancing.	3	true
+1123	A woman is dancing.	A femina dancing.	2	true
+1124	A woman is dancing.	angstrom unit adult female dance.	1	true
+1125	A woman is cracking eggs into a bowl.	A woman breaks an egg in a bowl.	5	true
+1126	A woman is cracking eggs into a bowl.	A adult female breaks an egg inch a bowl.	4	true
+1127	A woman is cracking eggs into a bowl.	angstrom woman breaks an eggs in a trough.	3	true
+1128	A woman is cracking eggs into a bowl.	A woman breaks an eggs in angstrom unit bowl.	2	true
+1129	A woman is cracking eggs into a bowl.	A femina erumpit, in ovo et patera.	1	true
+1130	A car is moving through a road.	車が通りを走ります。	5	true
+1131	A car is moving through a road.	A auto is driving through angstrom street.	4	true
+1132	A car is moving through a road.	The car run down the street.	3	true
+1133	A car is moving through a road.	The car going down feather the street.	2	true
+1134	A car is moving through a road.	The auto going down the street.	1	true
+1135	Someone is greasing a pan.	Someone is lubricating a pan.	5	true
+1136	Someone is greasing a pan.	individual smears the pot.	4	true
+1137	Someone is greasing a pan.	Someone smear the toilet.	3	true
+1138	Someone is greasing a pan.	wallop someone inch the pot.	2	true
+1139	Someone is greasing a pan.	Aliquis tendit inch ollam.	1	true
+1140	A man is playing guitar.	A man is playing the guitar.	5	true
+1141	A man is playing guitar.	男がギターを弾いています	4	true
+1142	A man is playing guitar.	Robert Adam drama guitar.	3	true
+1143	A man is playing guitar.	Sitara play Robert Adam.	2	true
+1144	A man is playing guitar.	Sitara play Robert Adam.	1	true
+1145	A woman is drinking vodka.	A woman is drinking vodka.	5	true
+1146	A woman is drinking vodka.	'N Vrou drink voca.	4	true
+1147	A woman is drinking vodka.	angstrom woman drinking vodka.	3	true
+1148	A woman is drinking vodka.	angstrom woman imbibing phone call.	2	true
+1149	A woman is drinking vodka.	angstrom unit woman be drinking vodka.	1	true
+1150	A woman is cutting meat into pieces.	A woman chops meat into small pieces.	5	true
+1151	A woman is cutting meat into pieces.	A adult female chops meat into small pieces.	4	true
+1152	A woman is cutting meat into pieces.	angstrom unit woman chops meat into little pieces.	3	true
+1153	A woman is cutting meat into pieces.	angstrom woman chops kernel into small piece.	2	true
+1154	A woman is cutting meat into pieces.	angstrom unit woman chops meat into little pieces.	1	true
+1155	A man is rinsing a steak.	男がステーキを洗う。	5	true
+1156	A man is rinsing a steak.	'N Man was 'n steak.	4	true
+1157	A man is rinsing a steak.	גבר היה הסטייק.	3	true
+1158	A man is rinsing a steak.	Steak adult male.	2	true
+1159	A man is rinsing a steak.	adult male Washington the steak.	1	true
+1160	A man is selling items.	A man sells things.	5	true
+1161	A man is selling items.	angstrom man sells thing.	4	true
+1162	A man is selling items.	angstrom adult male sells thing.	3	true
+1163	A man is selling items.	helium World Health Organization should sell the property.	2	true
+1164	A man is selling items.	angstrom person sells thing.	1	true
+1165	A man is jumping a wall.	男が壁に飛びつく。	5	true
+1166	A man is jumping a wall.	A man jumps along the paries.	4	true
+1167	A man is jumping a wall.	אדם קופץ על הקיר.	3	true
+1168	A man is jumping a wall.	A hop on a paries.	2	true
+1169	A man is jumping a wall.	angstrom unit hop on a wall.	1	true
+1170	Runners race around a track.	Läufer rennen um eine Strecke.	5	true
+1171	Runners race around a track.	The runner runs the duration.	4	true
+1172	Runners race around a track.	The runner ran the duration.	3	true
+1173	Runners race around a track.	pointer Army for the Liberation of Rwanda outside.	2	true
+1174	Runners race around a track.	The runner run the distance.	1	true
+1175	A man is kicking a soccer ball.	男がサッカーボールを蹴っています。	5	true
+1176	A man is kicking a soccer ball.	angstrom man kicks a soccer musket ball.	4	true
+1177	A man is kicking a soccer ball.	אדם בועט בכדורגל.	3	true
+1178	A man is kicking a soccer ball.	A adult male kicks angstrom association football ball.	2	true
+1179	A man is kicking a soccer ball.	angstrom football bang.	1	true
+1180	A woman is frying something.	A woman is frying something.	5	true
+1181	A woman is frying something.	A adult female is frying something.	4	true
+1182	A woman is frying something.	angstrom adult female be frying something.	3	true
+1183	A woman is frying something.	A woman beryllium frying something.	2	true
+1184	A woman is frying something.	אישה מטגנת משהו.	1	true
+1185	A cat is licking a sucker.	A cat is licking a sucker.	5	true
+1186	A cat is licking a sucker.	Eine Katze leckt einen Sauger.	4	true
+1187	A cat is licking a sucker.	חתול מלקק פטנט.	3	true
+1188	A cat is licking a sucker.	Eine Katze leckt einen Sauger.	2	true
+1189	A cat is licking a sucker.	angstrom unit cat is licking angstrom sucker.	1	true
+1190	A woman is dancing by a fire.	A woman is dancing by a fire.	5	true
+1191	A woman is dancing by a fire.	'N Vrou dans langs die vuur.	4	true
+1192	A woman is dancing by a fire.	女性が火のそばで踊っています	3	true
+1193	A woman is dancing by a fire.	Eine Frau tanzt americium Feuer.	2	true
+1194	A woman is dancing by a fire.	angstrom unit woman be dancing by a fire.	1	true
+1195	The man is slicing a fish open.	The man is slicing a fish open.	5	true
+1196	The man is slicing a fish open.	The adult male is slicing angstrom fish open.	4	true
+1197	The man is slicing a fish open.	The man be slicing angstrom fish clear.	3	true
+1198	The man is slicing a fish open.	The adult male be slicing a Pisces open.	2	true
+1199	The man is slicing a fish open.	The man is slice a Pisces the Fishes open.	1	true
+1200	Butter is melting in a pan.	バターが鍋で溶けています。	5	true
+1201	Butter is melting in a pan.	Butter is thaw inch a pan.	4	true
+1202	Butter is melting in a pan.	חמאה נמסה במחבת.	3	true
+1203	Butter is melting in a pan.	Botter in fragrantiam, cooking pan n.	2	true
+1204	Butter is melting in a pan.	バターが鍋で溶けています	1	true
+1205	Three boys are dancing.	Three boys are dancing.	5	true
+1206	Three boys are dancing.	Drei Jungen tanzen.	4	true
+1207	Three boys are dancing.	3 boys ar dance.	3	true
+1208	Three boys are dancing.	3 boys and dancing.	2	true
+1209	Three boys are dancing.	3 male child and dancing.	1	true
+1210	A woman is playing a game with a man.	A woman is playing a game with a man.	5	true
+1211	A woman is playing a game with a man.	A woman is acting a plot with a man.	4	true
+1212	A woman is playing a game with a man.	angstrom woman is playing a secret plan with a man.	3	true
+1213	A woman is playing a game with a man.	angstrom femina est vir ludens ludum seed homine.	2	true
+1214	A woman is playing a game with a man.	A woman plays angstrom game with angstrom adult male.	1	true
+1215	The man is driving a white car.	The man is driving a white car.	5	true
+1216	The man is driving a white car.	five hundred Mann fährt ein weißes Auto.	4	true
+1217	The man is driving a white car.	האיש נוהג במכונית לבנה.	3	true
+1218	The man is driving a white car.	The adult male is drive a white car.	2	true
+1219	The man is driving a white car.	The White person man beryllium driving a car.	1	true
+1220	A man drove his car.	A man was driving a car.	5	true
+1221	A man drove his car.	angstrom man Washington driving his car.	4	true
+1222	A man drove his car.	A adult male Washington drive a car.	3	true
+1223	A man drove his car.	Quidam Bachelor of Arts infitiante agitantem currus.	2	true
+1224	A man drove his car.	angstrom unit adult male driving a auto it.	1	true
+1225	A car backs out of a space.	The car will drive back from the room.	5	true
+1226	A car backs out of a space.	The auto drive back out of the room.	4	true
+1227	A car backs out of a space.	The car drive back come out of the closet of the way.	3	true
+1228	A car backs out of a space.	in the back of a car outside the room.	2	true
+1229	A car backs out of a space.	In the back of a car outside the room.	1	true
+1230	A man puts some cheese on a pizza.	A man puts cheese on a pizza.	5	true
+1231	A man puts some cheese on a pizza.	A adult male puts cheese on a pizza.	4	true
+1232	A man puts some cheese on a pizza.	A man put option tall mallow on a pizza pie.	3	true
+1233	A man puts some cheese on a pizza.	put option cheese on a pizza.	2	true
+1234	A man puts some cheese on a pizza.	Puts cheese along angstrom pizza pie.	1	true
+1235	The boy is playing the piano.	The boy is playing the piano.	5	true
+1236	The boy is playing the piano.	The male child play piano.	4	true
+1237	The boy is playing the piano.	The kid plays the pianoforte.	3	true
+1238	The boy is playing the piano.	The male child drama the piano.	2	true
+1239	The boy is playing the piano.	The boy play the pianoforte.	1	true
+1240	The man played his guitar.	The man played the guitar.	5	true
+1241	The man played his guitar.	The man was playing guitar.	4	true
+1242	The man played his guitar.	The man play the guitar.	3	true
+1243	The man played his guitar.	The man played the guitar.	2	true
+1244	The man played his guitar.	The man play the guitar.	1	true
+1245	A man is riding a horse.	The man rides a horse.	5	true
+1246	A man is riding a horse.	The man be horseback riding a horse.	4	true
+1247	A man is riding a horse.	The adult male be riding a horse.	3	true
+1248	A man is riding a horse.	angstrom unit cycle.	2	true
+1249	A man is riding a horse.	angstrom unit rhythm.	1	true
+1250	A man is walking on a rope.	A man is running on a rope.	5	true
+1251	A man is walking on a rope.	angstrom man running on a R-2.	4	true
+1252	A man is walking on a rope.	A adult male run on angstrom rope.	3	true
+1253	A man is walking on a rope.	Running along angstrom unit rope.	2	true
+1254	A man is walking on a rope.	Running along a R-2.	1	true
+1255	A girl is playing a flute.	The girl is playing the flute.	5	true
+1256	A girl is playing a flute.	The girl play transverse flute.	4	true
+1257	A girl is playing a flute.	The girl play the transverse flute.	3	true
+1258	A girl is playing a flute.	Puella play variety meat.	2	true
+1259	A girl is playing a flute.	Puella play variety meat.	1	true
+1260	People step off a train.	People get off the train.	5	true
+1261	People step off a train.	People acquire murder the train.	4	true
+1262	People step off a train.	People get off the railroad train.	3	true
+1263	People step off a train.	Off so that the people of the line.	2	true
+1264	People step off a train.	Off so that the citizenry of the line.	1	true
+1265	A woman is sewing on a machine.	A woman sews with a machine.	5	true
+1266	A woman is sewing on a machine.	A adult female working with a simple machine.	4	true
+1267	A woman is sewing on a machine.	angstrom woman working with angstrom machine.	3	true
+1268	A woman is sewing on a machine.	A woman workings with the machine.	2	true
+1269	A woman is sewing on a machine.	angstrom woman workings with the machine.	1	true
+1270	A dog is looking into swimming pool.	The dog looks into the pool.	5	true
+1271	A dog is looking into swimming pool.	The domestic dog looks into the pool.	4	true
+1272	A dog is looking into swimming pool.	The domestic dog is looking At the pool.	3	true
+1273	A dog is looking into swimming pool.	The dog Washington looking at the pond.	2	true
+1274	A dog is looking into swimming pool.	The domestic dog was looking astatine the pool.	1	true
+1275	A man is buttering a piece of bread.	A man applies a piece of bread.	5	true
+1276	A man is buttering a piece of bread.	angstrom man puts in angstrom piece of bread.	4	true
+1277	A man is buttering a piece of bread.	angstrom person spread a part of bread.	3	true
+1278	A man is buttering a piece of bread.	A individual dress in angstrom piece of bread.	2	true
+1279	A man is buttering a piece of bread.	angstrom person dress inch a part of bread.	1	true
+1280	A man is cutting tomatoes into pieces.	The man chops the tomatoes.	5	true
+1281	A man is cutting tomatoes into pieces.	The adult male chops the tomato.	4	true
+1282	A man is cutting tomatoes into pieces.	The man chop shot the tomatoes.	3	true
+1283	A man is cutting tomatoes into pieces.	A individual cut tomatoes into pieces.	2	true
+1284	A man is cutting tomatoes into pieces.	The chop tomato.	1	true
+1285	Three teenage girls danced in the room.	Drei Teenager tanzten im Raum.	5	true
+1286	Three teenage girls danced in the room.	Three adolescent dance in the room.	4	true
+1287	Three teenage girls danced in the room.	Three teenage girls dance in the room.	3	true
+1288	Three teenage girls danced in the room.	Three adolescent girls danced in the manner.	2	true
+1289	Three teenage girls danced in the room.	שלושה נערים רקדו בחדר.	1	true
+1290	A lion is walking.	Ein Löwe geht.	5	true
+1291	A lion is walking.	Ein Löwe geht.	4	true
+1292	A lion is walking.	angstrom king of beasts be walking.	3	true
+1293	A lion is walking.	ライオンが歩いています	2	true
+1294	A lion is walking.	dice leeu cringle.	1	true
+1295	A man shooting a car.	A man shoots a car.	5	true
+1296	A man shooting a car.	A adult male shooting a auto.	4	true
+1297	A man shooting a car.	'N Man wat 'n drive skiet.	3	true
+1298	A man shooting a car.	angstrom man shooting angstrom unit car.	2	true
+1299	A man shooting a car.	車を撃っている男	1	true
+1300	A black horse is running around.	A black horse is running around.	5	true
+1301	A black horse is running around.	A black Equus caballus is running about.	4	true
+1302	A black horse is running around.	angstrom black horse is tally around.	3	true
+1303	A black horse is running around.	A black horse beryllium running about.	2	true
+1304	A black horse is running around.	angstrom unit black Equus caballus is run around.	1	true
+1305	A woman is deveining shrimp.	A woman is deveining shrimp.	5	true
+1306	A woman is deveining shrimp.	A woman be devein shrimp.	4	true
+1307	A woman is deveining shrimp.	angstrom woman be devein shrimp.	3	true
+1308	A woman is deveining shrimp.	angstrom adult female is deveining shrimp.	2	true
+1309	A woman is deveining shrimp.	angstrom woman beryllium deveining runt.	1	true
+1310	A man is riding a horse.	A man is riding a horse.	5	true
+1311	A man is riding a horse.	A man is horseback riding a Equus caballus.	4	true
+1312	A man is riding a horse.	angstrom man is horseback riding a Equus caballus.	3	true
+1313	A man is riding a horse.	A man is horseback riding angstrom unit horse.	2	true
+1314	A man is riding a horse.	Ein Horace Mann reitet ein Pferd.	1	true
+1315	A man walks down a path.	A man walks down a path.	5	true
+1316	A man walks down a path.	angstrom adult male walks down a path.	4	true
+1317	A man walks down a path.	angstrom adult male walks down angstrom path.	3	true
+1318	A man walks down a path.	'N adult male stap 'n pad af.	2	true
+1319	A man walks down a path.	The adult male was walking on the pavement.	1	true
+1320	A man is slicing a potato.	男がジャガイモを切る。	5	true
+1321	A man is slicing a potato.	'N Man sny 'n aartappel.	4	true
+1322	A man is slicing a potato.	A man beryllium slicing a white potato.	3	true
+1323	A man is slicing a potato.	angstrom man cuts angstrom white potato.	2	true
+1324	A man is slicing a potato.	angstrom unit cut white potato.	1	true
+1325	A dog is barking at a ball.	The dog barks at the ball.	5	true
+1326	A dog is barking at a ball.	犬がボールに吠える	4	true
+1327	A dog is barking at a ball.	angstrom unit dog barks at a musket ball.	3	true
+1328	A dog is barking at a ball.	genus Canis latrat pila.	2	true
+1329	A dog is barking at a ball.	The domestic dog barks at the musket ball.	1	true
+1330	A kid runs away from a fish swinging around on a fishing pole.	A kid runs away from a fish swinging around on a fishing pole.	5	true
+1331	A kid runs away from a fish swinging around on a fishing pole.	Escape from the fish that the child swings around with a fishing perch.	4	true
+1332	A kid runs away from a fish swinging around on a fishing pole.	Escape from the fish the child is swinging around with angstrom fishing rod.	3	true
+1333	A kid runs away from a fish swinging around on a fishing pole.	flight from the fish the child is swinging around with a fishing rod.	2	true
+1334	A kid runs away from a fish swinging around on a fishing pole.	And the fish, the boy bowed together, and those that be about to escape the rush, may bash.	1	true
+1335	A man is walking along a path through wilderness.	The man walks down a path through the wilderness.	5	true
+1336	A man is walking along a path through wilderness.	The man walks a way through the desert.	4	true
+1337	A man is walking along a path through wilderness.	The adult male is walking on the road in the abandon.	3	true
+1338	A man is walking along a path through wilderness.	Man who walk by the way of the wilderness.	2	true
+1339	A man is walking along a path through wilderness.	Man World Health Organization walk past the way of the wilderness.	1	true
+1340	An elderly man is speaking at a podium.	The old man speaks on the podium.	5	true
+1341	An elderly man is speaking at a podium.	Die ou man praat op die podium.	4	true
+1342	An elderly man is speaking at a podium.	The old adult male is talking on the dais.	3	true
+1343	An elderly man is speaking at a podium.	Senex ait inch podium.	2	true
+1344	An elderly man is speaking at a podium.	Senex qui loquentes inch dais.	1	true
+1345	A man riding a horse in slow motion.	A man riding a horse in slow motion.	5	true
+1346	A man riding a horse in slow motion.	A man riding angstrom horse in slow gesture.	4	true
+1347	A man riding a horse in slow motion.	angstrom adult male rides inch slow motion on a horse.	3	true
+1348	A man riding a horse in slow motion.	A warfare inch the slow The man is riding a motorcycle.	2	true
+1349	A man riding a horse in slow motion.	angstrom war in the slow The man be horseback riding a motorcycle.	1	true
+1350	A person is cutting some burrata cheese.	A person cuts brata cheese.	5	true
+1351	A person is cutting some burrata cheese.	'N Persoon sny bratakaas.	4	true
+1352	A person is cutting some burrata cheese.	A individual is cutting Bullata tall mallow.	3	true
+1353	A person is cutting some burrata cheese.	helium dried the curd.	2	true
+1354	A person is cutting some burrata cheese.	A gash Bolatti tall mallow.	1	true
+1355	The man is shooting an automatic rifle.	The man shoots an automatic rifle.	5	true
+1356	The man is shooting an automatic rifle.	The adult male shoots an automatic rifle.	4	true
+1357	The man is shooting an automatic rifle.	The adult male fires an automatic rifle rifle.	3	true
+1358	The man is shooting an automatic rifle.	The fire anyone dui good.	2	true
+1359	The man is shooting an automatic rifle.	The adult male fires an automatic rifle rifle.	1	true
+1360	A man is crushing garlic with the back of a knife.	The man crushes the garlic behind the knife.	5	true
+1361	A man is crushing garlic with the back of a knife.	The man knock the garlic behind the knife.	4	true
+1362	A man is crushing garlic with the back of a knife.	The man grinds the garlic nates the knife.	3	true
+1363	A man is crushing garlic with the back of a knife.	The man buttocks the crushed Allium sativum steel.	2	true
+1364	A man is crushing garlic with the back of a knife.	The adult male behind the oppress garlic steel.	1	true
+1365	A woman is filing her fingernails with an emery board.	A woman is brushing her nails with an emery board.	5	true
+1366	A woman is filing her fingernails with an emery board.	'N Vrou lê haar vingerpunte op 'n kraalbord.	4	true
+1367	A woman is filing her fingernails with an emery board.	angstrom woman topographic point her fingertips on a drop board.	3	true
+1368	A woman is filing her fingernails with an emery board.	angstrom woman brushing her nails with a sandpaper plank.	2	true
+1369	A woman is filing her fingernails with an emery board.	angstrom woman places her fingertips over the emery plank.	1	true
+1370	A man is riding a skateboard.	A man is on a skateboard.	5	true
+1371	A man is riding a skateboard.	A adult male is along a skateboard.	4	true
+1372	A man is riding a skateboard.	גבר נמצא על סקייטבורד.	3	true
+1373	A man is riding a skateboard.	angstrom adult male rides angstrom skateboard.	2	true
+1374	A man is riding a skateboard.	A Eastern Time angstrom unit skateboard.	1	true
+1375	A woman is taking a shower.	女性がシャワーを浴びています。	5	true
+1376	A woman is taking a shower.	Eine Frau duscht.	4	true
+1377	A woman is taking a shower.	אישה מקלחת.	3	true
+1378	A woman is taking a shower.	אישה מקלחת.	2	true
+1379	A woman is taking a shower.	אישה מתקלחת.	1	true
+1380	A  man is dancing.	Ein Mann tanzt.	5	true
+1381	A  man is dancing.	A adult male dance.	4	true
+1382	A  man is dancing.	adult male B.	3	true
+1383	A  man is dancing.	Man bacillus.	2	true
+1384	A  man is dancing.	The dancing.	1	true
+1385	A man is rowing a boat.	男がボートを漕いでいます。	5	true
+1386	A man is rowing a boat.	'N Man roei 'n boot.	4	true
+1387	A man is rowing a boat.	'N adult male roei 'n bang.	3	true
+1388	A man is rowing a boat.	in the paddles a boat.	2	true
+1389	A man is rowing a boat.	Virum paddle in navi.	1	true
+1390	A man is swinging from a rope attached to the ceiling.	天井に取り付けられたロープから男が揺れている。	5	true
+1391	A man is swinging from a rope attached to the ceiling.	A adult male is swinging from a rope attached to the ceiling.	4	true
+1392	A man is swinging from a rope attached to the ceiling.	A man is swinging on angstrom R-2 tied to the ceiling.	3	true
+1393	A man is swinging from a rope attached to the ceiling.	Vir fune preci laquearia operuit.	2	true
+1394	A man is swinging from a rope attached to the ceiling.	Qui adhaeret inclinata vitamin E fune faucibus.	1	true
+1395	A woman is riding a horse on a beach.	A woman is riding a horse on a beach.	5	true
+1396	A woman is riding a horse on a beach.	'N Vrou ry perd op 'n strand.	4	true
+1397	A woman is riding a horse on a beach.	A woman riding a horse along the beach.	3	true
+1398	A woman is riding a horse on a beach.	'N Vrou ry perd op die strand.	2	true
+1399	A woman is riding a horse on a beach.	אישה רוכבת על סוס על החוף.	1	true
+1400	A man holds a small animal in one hand.	男は片手に小動物を持っています。	5	true
+1401	A man holds a small animal in one hand.	Ein Mann hält ein kleines Tier in einer Hand.	4	true
+1402	A man holds a small animal in one hand.	A adult male holds a small animal in one hand.	3	true
+1403	A man holds a small animal in one hand.	Ein Mann hält ein kleines grade in einer Hand.	2	true
+1404	A man holds a small animal in one hand.	The man hour angle angstrom small animal inch one manus.	1	true
+1405	A person is folding a square paper piece.	Eine Person faltet ein quadratisches Papierstück.	5	true
+1406	A person is folding a square paper piece.	1 person folds a square part of paper.	4	true
+1407	A person is folding a square paper piece.	A individual folds angstrom square piece of composition.	3	true
+1408	A person is folding a square paper piece.	אדם אחד מקפל פיסת נייר מרובעת.	2	true
+1409	A person is folding a square paper piece.	A person folds angstrom unit square part of composition.	1	true
+1410	A person is frying meat in a pan.	A person is frying meat in a pan.	5	true
+1411	A person is frying meat in a pan.	'N Persoon braai vleis inch 'n pot.	4	true
+1412	A person is frying meat in a pan.	angstrom individual frys meat in a cooking pan.	3	true
+1413	A person is frying meat in a pan.	Populi cibum Fry in cophino servierunt.	2	true
+1414	A person is frying meat in a pan.	From the FRYS meat inch the pan.	1	true
+1415	A chimpanzee is hurting a woman.	チンパンジーが女性を傷つけています。	5	true
+1416	A chimpanzee is hurting a woman.	A chimp hurts angstrom woman.	4	true
+1417	A chimpanzee is hurting a woman.	angstrom chimpanzee harms angstrom adult female.	3	true
+1418	A chimpanzee is hurting a woman.	Chimpanzees injury adult female.	2	true
+1419	A chimpanzee is hurting a woman.	Chimpanzees injury adult female.	1	true
+1420	The woman is peeling shrimp.	The woman is peeling shrimp.	5	true
+1421	The woman is peeling shrimp.	The woman Peel murder the shrimp.	4	true
+1422	The woman is peeling shrimp.	The adult female Peel off the shrimp.	3	true
+1423	The woman is peeling shrimp.	adult female cortices squilla.	2	true
+1424	The woman is peeling shrimp.	The woman Robert Peel the shrimp.	1	true
+1425	Two zebras are playing.	Two zebras are playing.	5	true
+1426	Two zebras are playing.	2頭のシマウマが遊んでいます	4	true
+1427	Two zebras are playing.	2 zebra are acting.	3	true
+1428	Two zebras are playing.	Duo zebraeque ludere.	2	true
+1429	Two zebras are playing.	Duo zebraeque ludere.	1	true
+1430	A woman is slicing butter.	A woman is slicing butter.	5	true
+1431	A woman is slicing butter.	angstrom woman cut butter.	4	true
+1432	A woman is slicing butter.	אישה חותכת חמאה.	3	true
+1433	A woman is slicing butter.	angstrom film editing butter adult female.	2	true
+1434	A woman is slicing butter.	אישה פורסת חמאה.	1	true
+1435	Some men are playing guitars.	一部の男性はギターを弾いています。	5	true
+1436	Some men are playing guitars.	Sommige man speel kitaar.	4	true
+1437	Some men are playing guitars.	Some work force play guitars.	3	true
+1438	Some men are playing guitars.	approximately citizenry drama the guitar.	2	true
+1439	Some men are playing guitars.	Some people play the guitar.	1	true
+1440	The elephants sprayed water on themselves.	The elephants sprayed them with water.	5	true
+1441	The elephants sprayed water on themselves.	The elephants spray them with H2O.	4	true
+1442	The elephants sprayed water on themselves.	The elephant sprayed water on them.	3	true
+1443	The elephants sprayed water on themselves.	Elephant sprayed water.	2	true
+1444	The elephants sprayed water on themselves.	Elephantorum greenish blue aspersi sunt.	1	true
+1445	A dog sat at the counter of a store.	A dog was sitting at the counter in the store.	5	true
+1446	A dog sat at the counter of a store.	A domestic dog was sitting at the tabulator of the store.	4	true
+1447	A dog sat at the counter of a store.	A dog was sitting astatine the shop tabulator.	3	true
+1448	A dog sat at the counter of a store.	A dog posing astatine the shop.	2	true
+1449	A dog sat at the counter of a store.	A dog was sitting astatine the counter of angstrom store.	1	true
+1450	Someone drills a hole in a strip of wood with a power drill.	Someone is drilling a hole in a strip of wood with a drill.	5	true
+1451	Someone drills a hole in a strip of wood with a power drill.	Someone drills a hole in a piece of wood with an electric automobile drill.	4	true
+1452	Someone drills a hole in a strip of wood with a power drill.	person World Health Organization 'holes' in angstrom piece of wood.	3	true
+1453	Someone drills a hole in a strip of wood with a power drill.	Anyone World Health Organization 'holes' in the same tree.	2	true
+1454	Someone drills a hole in a strip of wood with a power drill.	Aliquis, qui 'foramina, et inch eodem ligno.	1	true
+1455	A woman is slicing some vegetables.	A woman cuts vegetables.	5	true
+1456	A woman is slicing some vegetables.	A adult female cut vegetables.	4	true
+1457	A woman is slicing some vegetables.	A woman cut veggie.	3	true
+1458	A woman is slicing some vegetables.	angstrom unit femina film editing herbas.	2	true
+1459	A woman is slicing some vegetables.	A female person forcefulness moved approximately vegetables.	1	true
+1460	A badger is burrowing a hole.	アナグマが穴を掘る。	5	true
+1461	A badger is burrowing a hole.	Aneguma Garve 'Na rod.	4	true
+1462	A badger is burrowing a hole.	עניבה חופרת חור.	3	true
+1463	A badger is burrowing a hole.	Anagoma digging angstrom unit cavity.	2	true
+1464	A badger is burrowing a hole.	bash non beryllium proud of slaves.	1	true
+1465	A woman is water skiing on a lake.	女性が湖で水上スキーに行きます。	5	true
+1466	A woman is water skiing on a lake.	Vroue ski op die meer.	4	true
+1467	A woman is water skiing on a lake.	Vroue ski op die meer.	3	true
+1468	A woman is water skiing on a lake.	A woman goes water ski on the lake.	2	true
+1469	A woman is water skiing on a lake.	adult female ledgeman the lake.	1	true
+1470	A girl is playing a violin.	A girl plays the violin.	5	true
+1471	A girl is playing a violin.	The girl be playing the violin.	4	true
+1472	A girl is playing a violin.	The girl play violin.	3	true
+1473	A girl is playing a violin.	女の子がバイオリンを弾いています	2	true
+1474	A girl is playing a violin.	The miss drama fiddle.	1	true
+1475	A helicopter is landing on a helipad.	The helicopter lands on the helipad.	5	true
+1476	A helicopter is landing on a helipad.	angstrom helicopter land on a helipad.	4	true
+1477	A helicopter is landing on a helipad.	מסוק נוחת על אדמת מסוק.	3	true
+1478	A helicopter is landing on a helipad.	Quas ego tellurium terras helicopter inch helicopter.	2	true
+1479	A helicopter is landing on a helipad.	angstrom helicopter advenit helicopter superintendent terram.	1	true
+1480	A woman is cutting up a chicken.	Eine Frau schneidet ein Huhn.	5	true
+1481	A woman is cutting up a chicken.	A woman cuts angstrom unit chicken.	4	true
+1482	A woman is cutting up a chicken.	女性が鶏肉を切っています	3	true
+1483	A woman is cutting up a chicken.	angstrom femina secans gallinaceo.	2	true
+1484	A woman is cutting up a chicken.	女性が鶏肉を切っています	1	true
+1485	A woman is cutting a cucumber.	A woman is cutting a cucumber.	5	true
+1486	A woman is cutting a cucumber.	'N Vrou sny 'n komkommer.	4	true
+1487	A woman is cutting a cucumber.	'N Vrou sny 'n komkommer.	3	true
+1488	A woman is cutting a cucumber.	'N Vrou sny 'n komkommer.	2	true
+1489	A woman is cutting a cucumber.	אישה חותכת מלפפון.	1	true
+1490	A woman rides an elephant in front of an adoring crowd.	A woman rides an elephant in front of a longing crowd.	5	true
+1491	A woman rides an elephant in front of an adoring crowd.	A woman drive Associate in Nursing elephant in front of an adoring crowd.	4	true
+1492	A woman rides an elephant in front of an adoring crowd.	A woman thrust an elephant in front of an adoring crowd.	3	true
+1493	A woman rides an elephant in front of an adoring crowd.	A woman rides an elephant in front end of Associate in Nursing adoring crowd.	2	true
+1494	A woman rides an elephant in front of an adoring crowd.	The elephant adult female seat earlier an adore crowd.	1	true
+1495	A puppy is sliding backwards along the floor.	子犬が床に沿って後方にスライドしています。	5	true
+1496	A puppy is sliding backwards along the floor.	'N Puppy gly agteroor langs die vloer.	4	true
+1497	A puppy is sliding backwards along the floor.	pup slides dorsum on the flooring.	3	true
+1498	A puppy is sliding backwards along the floor.	The cubs slipping dorsum through the floor.	2	true
+1499	A puppy is sliding backwards along the floor.	Et catelli labitur inch posteriorem per areæ.	1	true
+1500	A woman splits garlic cloves.	A woman splits garlic cloves.	5	true
+1501	A woman splits garlic cloves.	Eine Frau spaltet Knoblauchzehen.	4	true
+1502	A woman splits garlic cloves.	A adult female breaks angstrom clove of garlic.	3	true
+1503	A woman splits garlic cloves.	A adult female splits Allium sativum cloves.	2	true
+1504	A woman splits garlic cloves.	אישה מפצלת שיני שום.	1	true
+1505	A dog is looking into swimming pool.	A dog looks into the swimming pool.	5	true
+1506	A dog is looking into swimming pool.	The domestic dog looks into the pool.	4	true
+1507	A dog is looking into swimming pool.	angstrom dog looks At the pool.	3	true
+1508	A dog is looking into swimming pool.	The dog expression astatine the pool.	2	true
+1509	A dog is looking into swimming pool.	genus Canis advertisement piscinam vultus.	1	true
+1510	A woman mixes a beauty treatment in a glass.	女性はグラスに美容トリートメントを混ぜます。	5	true
+1511	A woman mixes a beauty treatment in a glass.	女性がグラスに美容トリートメントを混ぜます	4	true
+1512	A woman mixes a beauty treatment in a glass.	Women mix stunner treatment in the pussy.	3	true
+1513	A woman mixes a beauty treatment in a glass.	Women's woman pussy.	2	true
+1514	A woman mixes a beauty treatment in a glass.	Women's woman cunt.	1	true
+1515	A man is drawing a picture.	A man draws a picture.	5	true
+1516	A man is drawing a picture.	A adult male be painting.	4	true
+1517	A man is drawing a picture.	A adult male draw a image.	3	true
+1518	A man is drawing a picture.	adult male life in the image.	2	true
+1519	A man is drawing a picture.	adult male lives inch the mental image.	1	true
+1520	A woman is picking tomatoes.	A woman is picking tomatoes.	5	true
+1521	A woman is picking tomatoes.	'N Vrou pluk tamaties.	4	true
+1522	A woman is picking tomatoes.	angstrom adult female picking tomatoes.	3	true
+1523	A woman is picking tomatoes.	אישה שקוטפת עגבניות.	2	true
+1524	A woman is picking tomatoes.	angstrom unit woman meter reading the tomatoes.	1	true
+1525	A man is looking at a computer monitor.	The man looks at the computer monitor.	5	true
+1526	A man is looking at a computer monitor.	The adult male looks at the computer monitor.	4	true
+1527	A man is looking at a computer monitor.	A adult male look at the computer monitor.	3	true
+1528	A man is looking at a computer monitor.	The man be looking at the computing machine proctor.	2	true
+1529	A man is looking at a computer monitor.	The man be look at the computer proctor.	1	true
+1530	The boy is riding a tricycle.	The boy is on a tricycle.	5	true
+1531	The boy is riding a tricycle.	The boy be in angstrom tricycle.	4	true
+1532	The boy is riding a tricycle.	The child is in angstrom tricycle.	3	true
+1533	The boy is riding a tricycle.	Puer inch trike.	2	true
+1534	The boy is riding a tricycle.	The boy riding angstrom unit tricycle.	1	true
+1535	Two men compete in a tire rolling race.	Two men compete in a tire race.	5	true
+1536	Two men compete in a tire rolling race.	Two men compete inch a tire subspecies.	4	true
+1537	Two men compete in a tire rolling race.	Two men participate inch a band race.	3	true
+1538	Two men compete in a tire rolling race.	two robber running.	2	true
+1539	Two men compete in a tire rolling race.	Do bands of information technology kind in two ways.	1	true
+1540	A person is cutting a meat.	人が肉を切る。	5	true
+1541	A person is cutting a meat.	angstrom individual cuts meat.	4	true
+1542	A person is cutting a meat.	angstrom man cut kernel.	3	true
+1543	A person is cutting a meat.	angstrom unit meat cuts.	2	true
+1544	A person is cutting a meat.	angstrom adult male hide into the meat.	1	true
+1545	A man is playing a violin.	A man plays the violin.	5	true
+1546	A man is playing a violin.	A adult male plays the violin.	4	true
+1547	A man is playing a violin.	A adult male plays angstrom fiddle.	3	true
+1548	A man is playing a violin.	Plays vitae Robert Adam.	2	true
+1549	A man is playing a violin.	Ludens in vitae virum.	1	true
+1550	The baby crawled through the doorway.	The baby crawled on the door.	5	true
+1551	The baby crawled through the doorway.	dice baba kruip deur dice deur.	4	true
+1552	The baby crawled through the doorway.	התינוק זוחל על הדלת.	3	true
+1553	The baby crawled through the doorway.	babe crawl to the door.	2	true
+1554	The baby crawled through the doorway.	Quod per ostium situm infantem.	1	true
+1555	A man is playing keyboard.	A man is playing keyboard.	5	true
+1556	A man is playing keyboard.	A man play the keyboard.	4	true
+1557	A man is playing keyboard.	אדם מנגן על המקלדת.	3	true
+1558	A man is playing keyboard.	The play along the keyboard.	2	true
+1559	A man is playing keyboard.	A adult male is acting on the keyboard.	1	true
+1560	A man is smelling two pizzas.	男は2つのピザのにおいがします。	5	true
+1561	A man is smelling two pizzas.	男は2つのピザのにおいがします	4	true
+1562	A man is smelling two pizzas.	The man smells 2 pizza.	3	true
+1563	A man is smelling two pizzas.	Lagani pistrinae gelate duo viri de odore.	2	true
+1564	A man is smelling two pizzas.	Two of freezing pizzas taste sensation odor.	1	true
+1565	A monkey pulls the tail of a dog.	The monkey pulls the dog's tail.	5	true
+1566	A monkey pulls the tail of a dog.	The monkey pull the dog's tail.	4	true
+1567	A monkey pulls the tail of a dog.	A monkey pulling the dog's tail.	3	true
+1568	A monkey pulls the tail of a dog.	A monkey pulls the tail of angstrom dog.	2	true
+1569	A monkey pulls the tail of a dog.	The imp pulls the tail of the domestic dog.	1	true
+1570	A dog lies on his back on a wooden floor.	犬は木の床に仰向けに寝ています。	5	true
+1571	A dog lies on his back on a wooden floor.	angstrom dog lies on his back on a wooden flooring.	4	true
+1572	A dog lies on his back on a wooden floor.	A dog lie along his back on angstrom wooden floor.	3	true
+1573	A dog lies on his back on a wooden floor.	Ein Hund liegt auf dem Rücken auf einem Holzboden.	2	true
+1574	A dog lies on his back on a wooden floor.	angstrom tergo eius super canem mendacium in state lignea.	1	true
+1575	A woman is frying something in the pan.	A woman is frying something in the pan.	5	true
+1576	A woman is frying something in the pan.	A woman be frying something in the pan.	4	true
+1577	A woman is frying something in the pan.	A adult female is frying something inch the pan.	3	true
+1578	A woman is frying something in the pan.	'N Vrou braai iets in dice pan.	2	true
+1579	A woman is frying something in the pan.	A woman be frying something inch angstrom toilet.	1	true
+1580	A man puts seasoning in a bowl of water.	A man puts seasoning in a bowl of water.	5	true
+1581	A man puts seasoning in a bowl of water.	'N Man sit geurmiddels inch 'n bak H2O.	4	true
+1582	A man puts seasoning in a bowl of water.	A man puts seasoning inch angstrom bowl of H2O.	3	true
+1583	A man puts seasoning in a bowl of water.	男は水を入れたボウルにスパイスを入れます	2	true
+1584	A man puts seasoning in a bowl of water.	האיש מכניס את התיבול לקערת מים.	1	true
+1585	An elderly woman is pouring oil into a frying pan.	An elderly woman is pouring oil into a frying pan.	5	true
+1586	An elderly woman is pouring oil into a frying pan.	Eine ältere Frau gießt Öl in eine Pfanne.	4	true
+1587	An elderly woman is pouring oil into a frying pan.	אישה מבוגרת משחה מחבת.	3	true
+1588	An elderly woman is pouring oil into a frying pan.	An elderly woman pour oil color into angstrom pan.	2	true
+1589	An elderly woman is pouring oil into a frying pan.	Associate in Nursing senes oleum fundit mulier inch Pan.	1	true
+1590	A woman is chopping an onion.	女性が玉ねぎを刻んでいます。	5	true
+1591	A woman is chopping an onion.	'N Vrou kap 'n ui.	4	true
+1592	A woman is chopping an onion.	A adult female chop onions.	3	true
+1593	A woman is chopping an onion.	angstrom adult female chops onions.	2	true
+1594	A woman is chopping an onion.	angstrom unit women the onion plant and does not sports meeting the.	1	true
+1595	The woman picked up the kangaroo.	The woman picked up the kangaroo.	5	true
+1596	The woman picked up the kangaroo.	Die Frau hob das Känguru auf.	4	true
+1597	The woman picked up the kangaroo.	The adult female raise a kangaroo.	3	true
+1598	The woman picked up the kangaroo.	The woman raises angstrom kangaroo.	2	true
+1599	The woman picked up the kangaroo.	female person kangaroo move.	1	true
+1600	A dog biting on a can.	The dog bites the can.	5	true
+1601	A dog biting on a can.	The domestic dog bites the can.	4	true
+1602	A dog biting on a can.	The dog bite the tin.	3	true
+1603	A dog biting on a can.	The dog morsel can.	2	true
+1604	A dog biting on a can.	The domestic dog bites Sn.	1	true
+1605	A woman is deboning a fish.	女性は魚を骨抜きにします。	5	true
+1606	A woman is deboning a fish.	woman moisture the fish.	4	true
+1607	A woman is deboning a fish.	A adult female boned angstrom unit fish.	3	true
+1608	A woman is deboning a fish.	angstrom adult female pushes fishbone.	2	true
+1609	A woman is deboning a fish.	angstrom unit woman pulls a Pisces os.	1	true
+1610	A man is mowing grass.	The man cuts the grass.	5	true
+1611	A man is mowing grass.	angstrom man cutting Gunter Grass.	4	true
+1612	A man is mowing grass.	you bash not care.	3	true
+1613	A man is mowing grass.	The man screen the Gunter Grass.	2	true
+1614	A man is mowing grass.	A adult male cover with grass.	1	true
+1615	A cat is watching a TV.	The cat is watching TV.	5	true
+1616	A cat is watching a TV.	The true cat is observation TV.	4	true
+1617	A cat is watching a TV.	angstrom true cat watching television.	3	true
+1618	A cat is watching a TV.	angstrom cat bash not watching television.	2	true
+1619	A cat is watching a TV.	A true cat knock not watching television.	1	true
+1620	The boy is stuck in the door of the doghouse.	The boy is stuck at the door of the dog's house.	5	true
+1621	The boy is stuck in the door of the doghouse.	The boy is lodge at the door of the dog's house.	4	true
+1622	The boy is stuck in the door of the doghouse.	The boy be stuck near the doorway of the dog house.	3	true
+1623	The boy is stuck in the door of the doghouse.	The boy who lodge around the domestic dog house.	2	true
+1624	The boy is stuck in the door of the doghouse.	The boy who stuck about the domestic dog firm.	1	true
+1625	People flip into a swimming pool.	People fold into the pool.	5	true
+1626	People flip into a swimming pool.	People fold into the pond.	4	true
+1627	People flip into a swimming pool.	People fold into the pond.	3	true
+1628	People flip into a swimming pool.	crease in the pond.	2	true
+1629	People flip into a swimming pool.	Populi sunt inch stagnum complicare.	1	true
