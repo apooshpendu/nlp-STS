@@ -1,26 +1,25 @@
 ## How to generate Synthetic Data ##
-1. Open *create_dataset.py*.
+1. Open *gen_pd.py*.
 2. Change the link to the original data
-3. Run the script using Python command prompt.
+3. Run the script using Python command prompt `python gen_pd.py num_pairs` with the number of pairs to be generated as an argument
 
 ### Requirements ###
 1. Python 3.6.
-2. Libraries: spacy, pattern, numpy, requests, nlpaug, nltk
+2. Libraries: nltk, googletrans, pybacktrans, pandas, langdetect
 
 ### Installation ###
-1. pip install -U spacy
-2. python -m spacy download en
-3. pip install numpy requests nlpaug
-4. pip install nltk>=3.4.5
-5. pip install torch>=1.6.0 -f https://download.pytorch.org/whl/torch_stable.html
-6. pip install transformers>=3.0.2
+1. pip install nltk>=3.4.5
+2. pip install googletrans
+3. pip install pybacktrans
+4. pip install pandas
+5. pip install langdetect
 
 ### Note ###
-If BERT model is not loaded, it take some time executing the script for the first time.
+Backtranslation takes some time to generate the data
 
 ### Reference ###
-DanManN passive to active
-https://github.com/DanManN/pass2act
+Python library for [backtranslation](https://github.com/monologg/py-backtrans) (with Google Translate)
 
-makcedward nlpaug
-https://github.com/makcedward/nlpaug
+[Googletrans](https://pypi.org/project/py-googletrans/)
+
+[Langdetect](https://pypi.org/project/langdetect/)
