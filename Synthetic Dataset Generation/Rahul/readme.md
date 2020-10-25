@@ -14,6 +14,13 @@
 2. pip install nltk>=3.4.5
 3.nltk.download("wordnet")
 
+### Contribution ###
+1. The script uses the Microsoft Research Paraphrase Corpus (MRPC) as input dataset. The dataset is filtered and only the raw sentences are extracted.
+2. The extracted sentences are tokenized and stop words are removed.
+3. The wordnet nltk corpus is used for getting the synonyms and antonym words.
+4. The script would identify the adjectives and adverbs(JJ & RB) from the input sentences and the respective words are replaced with their synonyms and antonyms obtained from     wordnet.
+5. Gold Label is assigned for synonyms and antonyms as 1 and 0 respectively.
+
 ### Note ###
 The script takes atmost 5 mins to run. You can also visit the ipython notebooks provided by google colab to try the code.
 https://colab.research.google.com/drive/1FoaU_7MRlQjjYsIuk3qxGsxnvoyqf1Ut.
