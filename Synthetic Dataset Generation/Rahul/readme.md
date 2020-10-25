@@ -19,7 +19,8 @@
 2. The extracted sentences are tokenized and stop words are removed.
 3. The wordnet nltk corpus is used for getting the synonyms and antonym words.
 4. The script would identify the adjectives and adverbs(JJ & RB) from the input sentences and the respective words are replaced with their synonyms and antonyms obtained from     wordnet.
-5. Gold Label is assigned for synonyms and antonyms as 1 and 0 respectively.
+5. Gold Label is assigned for synonyms and antonym paraphrases as 1 and 0 respectively.
+6. The generateDataset function in the script is used for generating the specified number of sentences in the output file.
 
 ### Note ###
 The script takes atmost 5 mins to run. You can also visit the ipython notebooks provided by google colab to try the code.
