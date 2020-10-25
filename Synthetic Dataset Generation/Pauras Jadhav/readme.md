@@ -18,8 +18,8 @@
 Backtranslation takes some time to generate the data
 
 ### Reference ###
-Python library for [backtranslation](https://github.com/monologg/py-backtrans) (with Google Translate)
+*Python library for [backtranslation](https://github.com/monologg/py-backtrans) (with Google Translate)
 
-[Googletrans](https://pypi.org/project/py-googletrans/)
+*[Googletrans](https://pypi.org/project/py-googletrans/)
 
-[Langdetect](https://pypi.org/project/langdetect/)
+*[Langdetect](https://pypi.org/project/langdetect/)
