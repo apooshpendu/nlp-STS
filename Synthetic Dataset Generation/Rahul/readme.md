@@ -1,26 +1,23 @@
 ## How to generate Synthetic Data ##
-1. Open *create_dataset.py*.
-2. Change the parameters for the input file and output file.
-3. Run the script using Python command prompt.
+1. Open *syn_ant_paraphraser.py*.
+2. Make sure the input and output file paths are configured properly.
+3. Open terminal/cmd and run python syn_ant_paraphraser.py arg
+4. Where arg=number of paraphrases you want in output file.
+5. Output file will be generated in the same location with name syn_ant.csv
 
 ### Requirements ###
-1. Python 3.6.
-2. Libraries: spacy, pattern, numpy, requests, nlpaug, nltk
+1. Python 3.6 or higher
+2. Libraries: Pandas, csv, nltk, json, nltk.stopwords, nltk.punkt, nltk.wordnet, nltk.averaged_perceptron_tagger
 
 ### Installation ###
-1. pip install -U spacy
-2. python -m spacy download en
-3. pip install numpy requests nlpaug
-4. pip install nltk>=3.4.5
-5. pip install torch>=1.6.0 -f https://download.pytorch.org/whl/torch_stable.html
-6. pip install transformers>=3.0.2
+1. pip install pandas
+2. pip install nltk>=3.4.5
+3.nltk.download("wordnet")
 
 ### Note ###
-If BERT model is not loaded, it take some time executing the script for the first time.
+The script takes atmost 5 mins to run. You can also visit the ipython notebooks provided by google colab to try the code.
+https://colab.research.google.com/drive/1FoaU_7MRlQjjYsIuk3qxGsxnvoyqf1Ut.
 
 ### Reference ###
-DanManN passive to active
-https://github.com/DanManN/pass2act
 
-makcedward nlpaug
-https://github.com/makcedward/nlpaug
+Microsoft Research Paraphrase Corpus
