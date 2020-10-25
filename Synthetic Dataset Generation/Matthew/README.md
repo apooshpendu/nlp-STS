@@ -27,6 +27,10 @@ We generate a word pair by first deciding how many translations and word replace
 If there are only a few, the word pair will be generated with a high similarity score (4-5). 
 If there are many, the word pair will be generated with a low similarity score (1-2).
 
+
+## Bugs
+It appears that the Google Translate API can occasionally fail, returning a sentence without actually translating it.
+Some bugfixing and manual checking will be required to make sure there are no failed translations in the dataset.
  
 
 
