@@ -5,7 +5,7 @@
 
 ### Requirements ###
 1. Python 3.6.
-2. Libraries: spacy, pattern, numpy, requests, nlpaug, nltk
+2. Libraries: spacy, pattern, numpy, requests, nlpaug, nltk, pandas
 
 ### Installation ###
 1. pip install -U spacy
