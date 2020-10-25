@@ -137,20 +137,10 @@ for i, text in enumerate(dataset):
     output_data = output_data.append({'Sentence1': text, 'Sentence2': output, 'Gold Label': 1, 'is_sts': "true"},
                                      ignore_index=True)
 
-    if i == 2:
-        print("2 done")
-        output_data.to_csv("output.csv", sep='\t')
-
-    if i == 5:
-        print("5 done")
-
     if i == j:
         j += 25
         output_data.to_csv("output.csv", sep='\t')
-        print("5%")
-    if i > 500:
-        break
-
+        print("saving work (25 done)")
 
 
 
