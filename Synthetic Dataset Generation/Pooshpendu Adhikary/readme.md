@@ -15,6 +15,9 @@
 5. pip install torch>=1.6.0 -f https://download.pytorch.org/whl/torch_stable.html
 6. pip install transformers>=3.0.2
 
+### Description ###
+It uses passive-to-active voice conversion and word swapping techniques using BERT and WordNet to create synthetic data. For generating dataset, PAWS dataset's partial data has been used as in input. The result is a csv file where each row contains original as well as generated sentence, similarity level and flag indicating whether it can be used for STS.
+
 ### Note ###
 If BERT model is not loaded, it take some time executing the script for the first time.
 
